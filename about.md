@@ -12,7 +12,9 @@ In addition to being a founder and founding Executive Board member of both the I
 
 ### Links
 [USC](https://healthpolicy.usc.edu/author/joel-w-hay-ph-d/)  
+
 [LinkedIn](https://www.linkedin.com/in/joelhay/)
+
 [Google Scholar](https://scholar.google.com/citations?user=vKK2BxEAAAAJ&hl=en)  
 
 ### Contact me
