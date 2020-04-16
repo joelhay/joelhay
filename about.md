@@ -3,7 +3,6 @@ layout: page
 title: About Joel Hay
 permalink: /about/
 published: true
-regenerate: true
 ---
 [USCSchaefer](https://healthpolicy.usc.edu/author/joel-w-hay-ph-d/)  
 [LinkedIn](https://www.linkedin.com/in/joelhay/)  
