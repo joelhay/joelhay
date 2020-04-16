@@ -3,7 +3,6 @@ layout: post
 title: The Telegraph Italian Death Count
 ---
 The Telegraph - Why have so many coronavirus patients died in Italy?
-Published March 23th
 
 There is clear evidence of massive Italian C19 death inflation:
 This will affect our peak level forecasts but not our inflection point estimates. 
