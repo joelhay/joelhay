@@ -1,6 +1,7 @@
 ---
 layout: page
 title: References
+regenerate: true
 permalink: /refs/
 ---
 # RADIO AND MEDIA APPEARANCES  
