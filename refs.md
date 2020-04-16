@@ -11,7 +11,7 @@ permalink: /refs/
   * National Review (April 6): Has Sweden Found the Right Solution to the Coronavirus?  [Click for article](https://www.nationalreview.com/2020/04/coronavirus-response-sweden-avoids-isolation-economic-ruin/)  
   * The Washington Times (March 26): Public policy panic about the COVID-19 pandemic not supported by the facts.  [Click for article](https://www.washingtontimes.com/news/2020/mar/26/public-policy-panic-about-the-covid-19-pandemic-no/)  
   * Annals of Internal Medicine (March 20): Comment - Optimizing Policy in Response to COVID-19 [Click for article](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported#article-top)  
-  * # OTHER ARTICLES AND REFERENCES
+# OTHER ARTICLES AND REFERENCES
   * PulmCrit (April 11): Josh Farkas - "Eleven reasons the NEJM paper on remdesivir reveals nothing" [Click for article](https://emcrit.org/pulmcrit/pulmcrit-eleven-reasons-the-nejm-paper-on-remdesivir-reveals-nothing/)  
   * Intelligencer (April 10): David Wallace-Wells - "The Best-Case Scenario for Coronavirus Is That It’s Way More Infectious Than We Think" [Click for article](https://nymag.com/intelligencer/2020/04/best-case-scenario-for-coronavirus.html)  
   * The Hill (March 28): Douglas Mackinnon - "What if the 'sky-is-falling' coronavirus models are wrong?" [Click for article](https://thehill.com/opinion/healthcare/489962-what-if-the-sky-is-falling-coronavirus-models-are-simply-wrong)  
