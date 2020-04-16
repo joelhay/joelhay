@@ -12,5 +12,3 @@ NB: Day 1 is the first day that a given country has >100 cases or >10 deaths.
 [Proof](https://rstudio-pubs-static.s3.amazonaws.com/598082_e181e75a9dfb453782dc7a06bf7b2156.html#r_proof)
 
 
-### Contact me
-[covidmodeling@joelberman.net](mailto:covidmodeling@joelberman.net)
