@@ -14,4 +14,4 @@ I am a PhD Health Economist whose mission is to generate and share reliable and 
 
 ### Contact me
 
-[covidmodeling@joelberman.net](mailto:covidmodeling@joelberman.net)
+[joelhay@joelberman.net](mailto:joelhay@joelberman.net)
