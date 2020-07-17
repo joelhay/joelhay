@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
+    {% seo %}
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -26,13 +26,7 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About Joel Hay</a>
-            <a href="{{ site.baseurl }}/survey">SURVEY</a>
-            <a href="{{ site.baseurl }}/refs">Other References</a>
-            <a href="{{ site.baseurl }}/stats">Statistics and Proof</a>
-          </nav>
+          {% include navigation.html %}
         </header>
       </div>
     </div>
