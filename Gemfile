@@ -6,3 +6,7 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.0"
 gem "jekyll", github: "jekyll/jekyll"
 # gem "rails"
+
+group :jekyll_plugins do
+  gem 'jekyll-seo-tag'
+end
