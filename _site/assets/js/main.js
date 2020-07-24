@@ -19,6 +19,7 @@ $(".tagoff").click(function (e) {
     	refresh();
 });
 
+//refreshes posts to reflect selected tags
 function refresh(){
 	var onlist = document.getElementsByClassName('tagon');
 
