@@ -84,3 +84,32 @@
 .tagon{
 	background-color: _palette(highlight);
 }
+#upper-banner { 
+       position: absolute; 
+       top: 0; 
+       left: 0; 
+       background-color: rgb(247, 203, 77);; 
+       width: 100%; 
+       text-align: center;
+}
+#banner-content { 
+	display: inline-block;
+	width: 800px; 
+    height: 60px;
+    padding: 10px; 
+      
+}
+#banner-font{
+	width: 193px;
+	color: rgb(0,0,0);
+	font-family: Roboto;
+    font-size: 13pt;
+    margin: 0;
+    display: inline-block;
+}
+#banner-button{
+	margin: auto 0;
+	margin-left: 35px;
+
+}
+
