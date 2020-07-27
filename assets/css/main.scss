@@ -94,22 +94,30 @@
 }
 #banner-content { 
 	display: inline-block;
-	width: 800px; 
-    height: 60px;
+    height: 70px;
     padding: 10px; 
-      
+    text-align: center;  
+    margin: auto;
 }
 #banner-font{
 	width: 193px;
 	color: rgb(0,0,0);
 	font-family: inherit;
-    font-size: 13pt;
+    font-size: 0.8em;
+
+    text-transform: uppercase;
+    font-weight: 600;
+    height: 3.5em;
+    line-height: 3.5em;
+
     margin: 0;
+    margin: auto;
     display: inline-block;
 }
 #banner-button{
 	margin: auto 0;
+	font-size: 0.8em;
 	margin-left: 35px;
-
+	letter-spacing: .1em;
 }
 
