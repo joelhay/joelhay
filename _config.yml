@@ -1,17 +1,17 @@
 # site settings
 title: Joel Hay
 subtitle: PhD
-email: youremailaddress@gmail.com
+email: jhay@usc.edu
 description: Welcome to joelhay.com. I am a PhD Health Economist whose mission is to generate and share reliable and transparent evidence on the impact of the COVID-19 epidemic, and to critically examine the institutional policies made in response to the epidemic around the globe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 635 Downey Way
+city: Los Angeles
+state: CA
+zip_code: 90089-3333
 country: United States of America
-phone: (716) 555-5555
+phone: (213) 821-8160
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/joelhay/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/joelwhay1
 
 # build settings
 markdown: kramdown
