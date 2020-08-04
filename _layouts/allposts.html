@@ -34,7 +34,8 @@
               <div class="postobjects"> 
                 <header class="major">
                 <li><span>{{ post.date | date_to_string }}</span> &raquo; 
-                  <h3 style="display:inline"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+                  <h3 style="display:inline"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>&nbsp;&nbsp;&bull;
+                  <a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">{{ post.title }}</a>
                 </li>
                 {{ post.content | strip_html | truncatewords:75}}<br>
                 <a href="{{ post.url }}">Read more...</a><br><br>
