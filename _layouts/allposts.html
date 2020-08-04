@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <!--
     Forty by HTML5 UP
@@ -29,19 +31,26 @@
 
           <div id="filtered_post">
             {% for post in site.posts %}
-              {% if post.title != 404 %}
               <div class="postobjects"> 
                 <header class="major">
-                  <h1>{{ post.title }}</h1>
+                <li><span>{{ post.date | date_to_string }}</span> &raquo; 
+                  <h3 style="display:inline"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+                </li>
+                {{ post.content | strip_html | truncatewords:75}}<br>
+                <a href="{{ post.url }}">Read more...</a><br><br>
                 </header>
+              </div>
+            {% endfor %}
+          </div>
+              
+              <!--
                 {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
                 {% if post.tags %}<span class="findtags">Tags:&nbsp;{% for tag in post.tags %}{{tag}}&nbsp;{% endfor %}</span>{% endif %}
                 {% if post.date %}<p>{{ post.date }}</p>{% endif %}
                 <p>{{ post.content }}</p>
-              </div>
-              {% endif %}
-            {% endfor %}
-          </div>
+              -->
+
+        
         </div>
       </section>
 

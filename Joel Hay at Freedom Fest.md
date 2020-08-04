@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joel Hay at Freedom Fest
-nav-menu: ture
+nav-menu: false
 show_tile: false
 ---
 
