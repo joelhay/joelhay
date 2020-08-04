@@ -1,0 +1,31 @@
+
+### \\[UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal](https://www.google.com/url?q=https%3A%2F%2Fwww.pennlive.com%2Fnews%2F2020%2F04%2Fumpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html&sa=D&sntz=1&usg=AFQjCNHUIO1UB0er5dqNf0RdGguEzHEKzA) {#h.h7nxpl8kztkm .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
+
+[![](https://lh5.googleusercontent.com/S1FzdnZ6IDAPCZC0HSE9_go9EnU6tlQyFspTZNB9ff4jzIcf1LsFCM4JkF8AC5_3SBP7MoNkM_5fPFqn7WXsw7fTBu5ohXZO_elJvAqgzfzg19HbVTo=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
+
+The death rate for people infected with the new coronavirus may be as
+low as 0.25% — far lower than the mortality rates of 2-4% or even higher
+cited in the early days of the pandemic.
+
+Dr. Donald Yealy based it partly on studies of levels of coronavirus
+antibodies detected in people in New York and California, and partly on
+COVID-19 deaths in the Pittsburgh region. The studies found that 5-20%
+of people had been exposed to the coronavirus, with many noticing only
+mild illness or none at all, he said.
+
+\
+
+“We’ve learned that way more people, far, far more people have actually
+been exposed to the infection without any knowledge of it. That makes
+the overall death rate much lower,” said Yealy, who is UPMC’s chair of
+emergency medicine. “Many people just didn’t feel sick at all and
+recovered without difficulty.”
+
+This would mean 0.25 percent of people exposed to the coronavirus had
+died, he said.
+
+“There is a big difference between 0.25% mortality and 7%,” Yealy said.
+
+\
+
+![](https://lh3.googleusercontent.com/QzKZv2TktMQJIJNnsHh3MnMDw7QSk7boCTyNxyTZa1SnAUNg9BYVgYzpgSlv2IAqm-xYimqy49AqfTWjd9fB9Q4PGSSPhR7Zw17AnfD8tvYBp91MUA=w1280)
