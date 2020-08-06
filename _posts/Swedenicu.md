@@ -1,3 +1,11 @@
+---
+layout: post
+title: Pretty clear that Sweden's ICU C19 census is declining steadily.
+description: Pretty clear that Sweden's ICU C19 census is declining steadily.
+image: 
+tags: COVID-19
+comments: true
+---
 
 Pretty clear that Sweden's ICU C19 census is declining steadily. {#h.664l0xybz8ml .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------

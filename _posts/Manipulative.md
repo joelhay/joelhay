@@ -1,3 +1,11 @@
+---
+layout: post
+title: Manipulative Modeling
+description: Manipulative Modelling
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Manipulative Modelling](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcovid19-infection-rates-manipulative-modeling-vaccine-robert-leon%2F&sa=D&sntz=1&usg=AFQjCNG12YfCJT0A3XPbb9PVouLNfoCsJA) {#h.punl6i5itpgl .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

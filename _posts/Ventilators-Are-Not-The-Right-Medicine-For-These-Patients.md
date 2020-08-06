@@ -1,3 +1,11 @@
+---
+layout: post
+title: Ventilators are not the right medicine for these patients.
+description: Ventilators are not the right medicine for these patients.
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Ventilators are not the right medicine for these patients.](https://www.google.com/url?q=https%3A%2F%2Fwww.9news.com.au%2Fworld%2Fus-doctors-avoid-ventilators-for-coronavirus-patients%2F4bd068b1-2f56-4fcf-b998-c252c99899dd&sa=D&sntz=1&usg=AFQjCNEQC_J4-_hR1_5sNS-TKYhpMUBVXg) {#h.3cjcqkxloiti .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

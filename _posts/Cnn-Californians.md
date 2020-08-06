@@ -1,3 +1,11 @@
+---
+layout: post
+title: Californis Died of Coronavirus?
+description: 2 Californians died of coronavirus weeks before previously known 1st US death
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [2 Californians died of coronavirus weeks before previously known 1st US death](https://www.google.com/url?q=https%3A%2F%2Fwww.cnn.com%2F2020%2F04%2F22%2Fus%2Fcalifornia-deaths-earliest-in-us%2Findex.html&sa=D&sntz=1&usg=AFQjCNHc2f2ONLSGXBb85JGRkjBzmKTo7g) {#h.h8a540jr78en .zfr3Q .OmQG5e dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Enough Already with the IHME COVID-19 Model
+description: Enough Already with the IHME COVID-19 Model
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Enough Already with the IHME COVID-19 Model](https://www.google.com/url?q=https%3A%2F%2Fwww.nationalreview.com%2F2020%2F05%2Fenough-already-with-the-ihme-covid-19-model%2F&sa=D&sntz=1&usg=AFQjCNGl3YSx9aIgEEul0U70oyvyYrAeIg) {#h.qj1opc32fwzo .zfr3Q .duRjpb dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 ================================================================================================================================================================================================================================

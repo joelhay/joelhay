@@ -1,3 +1,11 @@
+---
+layout: post
+title: Norway Lockdown
+description: Norway's lockdown now looked like steps too far.
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Norway's lockdown now looked like steps too far.](https://www.google.com/url?q=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2020%2F05%2F30%2Fcoronavirus-norway-wonders-should-have-like-sweden%2F&sa=D&sntz=1&usg=AFQjCNHq6pOqrsKGX7sEGU-wF-DDcRiBxA) {#h.u04hl5tngfkp .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

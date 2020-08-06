@@ -1,3 +1,11 @@
+---
+layout: post
+title: Massachusetts
+description: A THIRD of participants in Massachusetts study test positive
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [**A THIRD of participants in Massachusetts study test positive**](https://www.google.com/url?q=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F04%2F17%2Fbusiness%2Fnearly-third-200-blood-samples-taken-chelsea-show-exposure-coronavirus%2F&sa=D&sntz=1&usg=AFQjCNEWFR9OCyOQaU-_1uknIAtoPruJKg) {#h.mhfw3dj6loef .zfr3Q .OmQG5e dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 

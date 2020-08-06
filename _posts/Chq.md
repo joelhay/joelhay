@@ -1,5 +1,13 @@
+---
+layout: post
+title: Another study showing that AZ and HCQ are ineffective
+description: Another study showing that AZ and HCQ are ineffective
+image: 
+tags: COVID-19
+comments: true
+---
 
-[Another study showing that AZ and HCQ are innefective](https://www.google.com/url?q=https%3A%2F%2Fjamanetwork.com%2Fjournals%2Fjama%2Ffullarticle%2F2766117%3FguestAccessKey%3Dd3e6104c-46fb-4382-9163-97280e784dc2&sa=D&sntz=1&usg=AFQjCNEuulT-Dy-FOLH724LWFiJq__8pnw) {#h.k72u3qjptb29 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
+[Another study showing that AZ and HCQ are ineffective](https://www.google.com/url?q=https%3A%2F%2Fjamanetwork.com%2Fjournals%2Fjama%2Ffullarticle%2F2766117%3FguestAccessKey%3Dd3e6104c-46fb-4382-9163-97280e784dc2&sa=D&sntz=1&usg=AFQjCNEuulT-Dy-FOLH724LWFiJq__8pnw) {#h.k72u3qjptb29 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![](https://lh5.googleusercontent.com/S1FzdnZ6IDAPCZC0HSE9_go9EnU6tlQyFspTZNB9ff4jzIcf1LsFCM4JkF8AC5_3SBP7MoNkM_5fPFqn7WXsw7fTBu5ohXZO_elJvAqgzfzg19HbVTo=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)

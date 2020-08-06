@@ -1,3 +1,11 @@
+---
+layout: post
+title: We were right! C19 is already everywhere and most people don't know it!
+description: We were right! C19 is already everywhere and most people don't know it!
+image: 
+tags: COVID-19
+comments: true
+---
 
 We were right! C19 is already everywhere and most people don't know it! {#h.vodbc7qh6t6i .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------

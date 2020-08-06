@@ -1,3 +1,11 @@
+---
+layout: post
+title: Social Mixing
+description: SOCIAL MIXING WORKS FOR YOUNG AND HEALTHY!!!
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [SOCIAL MIXING WORKS FOR YOUNG AND HEALTHY!!!](https://www.google.com/url?q=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fnew-york-survey-yields-new-insights-into-whos-getting-infected-with-covid-19-11588800575&sa=D&sntz=1&usg=AFQjCNGDXkHUlNU003BX5ZZHoJNK9qtbpw) {#h.k14us8yi14xy .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

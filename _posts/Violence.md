@@ -1,3 +1,11 @@
+---
+layout: post
+title: Lockdowns cause domestic violence.
+description: Lockdowns cause domestic violence.
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Lockdowns cause domestic violence.](https://www.google.com/url?q=https%3A%2F%2Fwww.dallasnews.com%2Fnews%2Fcrime%2F2020%2F05%2F19%2Fut-dallas-study-finds-family-violence-increased-125-during-shelter-at-home-orders%2F&sa=D&sntz=1&usg=AFQjCNFp8FbJgRvZWoHAtnvZ6mcDH_Ki9g) {#h.17s9xnupk9kq .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

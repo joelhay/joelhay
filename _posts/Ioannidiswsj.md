@@ -1,3 +1,11 @@
+---
+layout: post
+title: The Bearer of Good Coronavirus News
+description: The Bearer of Good Coronavirus News
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [The Bearer of Good Coronavirus News](https://www.google.com/url?q=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-bearer-of-good-coronavirus-news-11587746176%3Fmod%3Dopinion_lead_pos5&sa=D&sntz=1&usg=AFQjCNHLPLtOLBb17PhbeYcSluGigQRxnA) {#h.cv7p8gfj68r5 .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

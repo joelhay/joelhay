@@ -1,3 +1,11 @@
+---
+layout: post
+title: Illegal!
+description: Of course lockdowns are illegal!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Of course lockdowns are illegal!](https://www.google.com/url?q=https%3A%2F%2Freason.com%2F2020%2F06%2F12%2Fanother-judge-rules-that-ohios-covid-19-lockdown-is-illegal%2F&sa=D&sntz=1&usg=AFQjCNFT3on3i1vmmxLXheMRsSuwCNHf0w) {#h.bdy5zscpxkb8 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

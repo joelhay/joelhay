@@ -1,3 +1,11 @@
+---
+layout: post
+title: Everywhere
+description: This was Everywhere!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [This was Everywhere](https://www.google.com/url?q=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fhealth-52935644&sa=D&sntz=1&usg=AFQjCNG8EQiZNerw_Pu2nWM5x--f0HfcKQ) {#h.k9ergkl9d9i3 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------

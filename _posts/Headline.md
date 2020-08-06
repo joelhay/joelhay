@@ -1,3 +1,11 @@
+---
+layout: post
+title: Headline
+description: Why isn't this the main headline of every Newspaper?
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [Why isn't this the main headline of every Newspaper?](https://www.google.com/url?q=https%3A%2F%2Funherd.com%2F2020%2F07%2Fwhy-covid-will-become-the-new-common-cold%2F&sa=D&sntz=1&usg=AFQjCNEdX_j1ErvgIg5uC4b1t1ar13A5KA) {#h.wazv9sttlz0h .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

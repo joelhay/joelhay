@@ -1,3 +1,11 @@
+---
+layout: post
+title: Bangladesh
+description: Are Lockdowns Meaningful?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Are Lockdowns Meaningful?](https://www.google.com/url?q=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2Fbangladesh-reopens-600-apparel-factories-despite-virus-risk%2F2020%2F04%2F28%2F03b3354c-8939-11ea-80df-d24b35a568ae_story.html&sa=D&sntz=1&usg=AFQjCNE0qsZeWK_EHjaxifV7rBZPfHDI5w) {#h.kzmwu139kir .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

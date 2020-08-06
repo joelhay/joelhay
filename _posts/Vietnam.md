@@ -1,3 +1,11 @@
+---
+layout: post56% of wild animals in Vietnam’s restaurants have a coronavirus
+title: 
+description: 56% of wild animals in Vietnam’s restaurants have a coronavirus
+image: 
+tags: COVID-19
+comments: true
+---
 
 [56% of wild animals in Vietnam’s restaurants have a coronavirus](https://www.google.com/url?q=https%3A%2F%2Fnypost.com%2F2020%2F06%2F20%2F56-of-wild-animals-in-vietnams-restaurants-have-coronaviruses%2F&sa=D&sntz=1&usg=AFQjCNEWWDULzhrpad-zVRgKLr5rUwmnsA) {#h.8xslfcoqokdv .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: The economic costs of the Social Isolation Controls will be devastating!
+description: The economic costs of the Social Isolation Controls will be devastating!
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [The economic costs of the Social Isolation Controls will be devastating!](https://www.google.com/url?q=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%253A%252F%252Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%252Fd87e683a-78ce-11ea-af44-daa3def9ae03%3Ffit%3Dscale-down%26quality%3Dhighest%26source%3Dnext%26width%3D700&sa=D&sntz=1&usg=AFQjCNHxkK2gzuYx4TrYSwvYiM1gTwBq2w) {#h.t315aigiqp0t .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

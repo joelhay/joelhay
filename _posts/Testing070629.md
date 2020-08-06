@@ -1,3 +1,11 @@
+---
+layout: post
+title: 4.5% of world population
+description: 4.5% of world population 26% of Coronavirus cases and deaths!!!!!
+image: 
+tags: COVID-19
+comments: true
+---
 
 4.5% of world population 26% of Coronavirus cases and deaths!!!!! {#h.btq3hc3zxh3d .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 9pt; padding-left: 0; text-align: left; text-indent: 0;"}
 -----------------------------------------------------------------

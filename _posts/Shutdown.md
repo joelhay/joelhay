@@ -1,3 +1,11 @@
+---
+layout: post
+title: We shut down the world based on C19 testing, but no one understands C19 testing!
+description: We shut down the world based on C19 testing, but no one understands C19 testing!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [We shut down the world based on C19 testing, but no one understands C19 testing!](https://www.google.com/url?q=https%3A%2F%2Fwww.statnews.com%2F2020%2F04%2F20%2Feverything-we-know-about-coronavirus-immunity-and-antibodies-and-plenty-we-still-dont%2F&sa=D&sntz=1&usg=AFQjCNEDwoHLzHi5P0FEX4UzxSWK5El0iw) {#h.mokjxzp2i03n .zfr3Q .JYVBee dir="ltr" style="text-align: left;"}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

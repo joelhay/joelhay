@@ -1,3 +1,11 @@
+---
+layout: post
+title: France
+description: France's first known case was in December
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [Coronavirus: France's first known case 'was in December'](https://www.google.com/url?q=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-52526554&sa=D&sntz=1&usg=AFQjCNH8DaqsvXEFzMg90wrIYnOyO8iSaQ) {#h.5lbukmaiwpkj .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

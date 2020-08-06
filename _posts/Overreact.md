@@ -1,3 +1,11 @@
+---
+layout: post
+title: Overreaction?
+description: Overeaction
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Overreaction?](https://www.google.com/url?q=https%3A%2F%2Fepisphere.github.io%2Fmortalitytracker%2F%23cause%3Dallcause%26state%3DAll%2520States&sa=D&sntz=1&usg=AFQjCNFy88I6q4EhfFCIwgJsxCpB_LRhLg) {#h.1qd6zuafu0pm .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Are we living in a Gaslight movie?
+description: Are we living in a Gaslight movie?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Are we living in a Gaslight movie?](https://www.google.com/url?q=https%3A%2F%2Fabcnews.go.com%2FUS%2Falabama-students-throwing-covid-parties-infected-officials%2Fstory%3Fid%3D71552514&sa=D&sntz=1&usg=AFQjCNEVdqwfbUeBlPdjEcTQpkPMeeDk_g) {#h.hgi3abssoysp .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

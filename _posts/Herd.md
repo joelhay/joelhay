@@ -1,3 +1,11 @@
+---
+layout: post
+title: Herd Immunity
+description: Herd Immunity
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Herd Immunity](https://www.google.com/url?q=https%3A%2F%2Fwww.nytimes.com%2F2020%2F07%2F09%2Fnyregion%2Fnyc-coronavirus-antibodies.html&sa=D&sntz=1&usg=AFQjCNE6LwrURNDl0d4beNy6R5-yu7649w) {#h.cfdt4dh3sot9 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

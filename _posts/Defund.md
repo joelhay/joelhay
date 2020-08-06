@@ -1,3 +1,11 @@
+---
+layout: post
+title: Defund the WHO
+description: Defund the WHO
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Defund WHO](https://www.google.com/url?q=https%3A%2F%2Fwww.poynter.org%2Freporting-editing%2F2020%2Fthe-who-offered-confusing-new-covid-19-guidance-if-you-are-asymptomatic-are-you-infectious%2F&sa=D&sntz=1&usg=AFQjCNHf8hDyoP3cmMNHBH2CnKywmA7VyA) {#h.5ih3a9jc06gn .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: The Lockdown Skeptic They Couldn’t Silence
+description: The Lockdown Skeptic They Couldn’t Silence
+image: 
+tags: COVID-19
+comments: true
+---
 
 [The Lockdown Skeptic They Couldn’t Silence](https://www.google.com/url?q=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-lockdown-skeptic-they-couldnt-silence-11589566245%3FshareToken%3Dstc6812482fc1343bc83e7253c7bebe12a%26reflink%3Darticle_email_share&sa=D&sntz=1&usg=AFQjCNHh4QvWPuMbN_70SL1QgdkcIw8TCQ) {#h.897t8t37brg4 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

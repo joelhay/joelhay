@@ -1,3 +1,11 @@
+---
+layout: post
+title: C19 virus still has no independent pathogenic pathway!
+description: C19 virus still has no independent pathogenic pathway!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [C19 virus still has no independent pathogenic pathway!](https://youtu.be/qp0afdBUzis) {#h.83t7kae9qiy1 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------------------------------------------------------------------

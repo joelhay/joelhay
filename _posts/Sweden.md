@@ -1,3 +1,11 @@
+---
+layout: post
+title: Sweden's numbers exagerated
+description: Sweden's numbers exagerated
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Sweden's numbers exagerated](https://www.google.com/url?q=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2020-06-26%2Fsweden-s-covid-expert-says-who-made-total-mistake-in-new-list&sa=D&sntz=1&usg=AFQjCNGuuiiMFdkZMwZExOQmGZGBZ5DFsQ) {#h.m8d57r4tq6e3 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Hawaii
+description: Quarantine in Hawaii?
+image: 
+tags: COVID-19
+comments: true
+---
 
 Hawaii {#h.vyg5k2notege .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------

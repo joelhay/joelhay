@@ -1,3 +1,11 @@
+---
+layout: post
+title: Washington Times article on public policy panic
+description: Washington Times article on public policy panic
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Washington Times article on public policy panic](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F2Vlj93v&sa=D&sntz=1&usg=AFQjCNEOQExdjKg9VpdN7VfO5-7wdUh9SQ) {#h.7v6qqx2ffov0 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------

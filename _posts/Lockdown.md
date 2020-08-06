@@ -1,3 +1,11 @@
+---
+layout: post
+title: Lockdown Deaths
+description: Lockdown Deaths
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Lockdown Deaths](https://www.google.com/url?q=https%3A%2F%2Fwww.spectator.co.uk%2Farticle%2Fwhy-can-t-neil-ferguson-s-imperial-model-be-replicated-&sa=D&sntz=1&usg=AFQjCNEw0IEiXdw_L-NzhKFo2j83psqImw) {#h.vnyidqm5nueu .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

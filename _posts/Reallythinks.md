@@ -1,3 +1,11 @@
+---
+layout: post
+title: What Joel Hay Really Thinks!
+description: What Joel Hay Really Thinks!
+image: 
+tags: COVID-19
+comments: true
+---
 
 What Joel Hay Really Thinks! {#h.x3d4l383xs4 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------

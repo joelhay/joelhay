@@ -1,3 +1,11 @@
+---
+layout: post
+title: Elon Musk
+description: Elon Musk Says Tesla Suing California County
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [Elon Musk Says Tesla Suing California County](https://www.google.com/url?q=https%3A%2F%2Fwww.npr.org%2Fsections%2Fcoronavirus-live-updates%2F2020%2F05%2F09%2F853313775%2Felon-musk-says-tesla-suing-california-county-moving-headquarters-out-of-state&sa=D&sntz=1&usg=AFQjCNENQFgYaYxeNiO6nJWzFBUTjdHWtw) {#h.ilnol9bsn1a0 .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

@@ -1,3 +1,11 @@
+---
+layout: post
+title: R of 6
+description: R of 6
+image: 
+tags: COVID-19
+comments: true
+---
 
 [R of 6](https://www.google.com/url?q=https%3A%2F%2Fjudithcurry.com%2F2020%2F05%2F10%2Fwhy-herd-immunity-to-covid-19-is-reached-much-earlier-than-thought%2F&sa=D&sntz=1&usg=AFQjCNGrcFMg73xiR-ypZYrwFKjS_b4oQQ) {#h.zgex6ul7eah9 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

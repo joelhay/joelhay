@@ -1,3 +1,11 @@
+---
+layout: post
+title: Number of COVID-19 Infections Far Exceeds Number of Confirmed Cases in Los Angeles County 
+description: Number of COVID-19 Infections Far Exceeds Number of Confirmed Cases in Los Angeles County 
+image: 
+tags: COVID-19
+comments: true
+---
 
 Number of COVID-19 Infections Far Exceeds Number of Confirmed Cases in Los Angeles County {#h.ckopi4juzt0u .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------

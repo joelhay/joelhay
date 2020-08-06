@@ -1,3 +1,11 @@
+---
+layout: post
+title: Intellectual Disabilities
+description: Intellectual Disabilities
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Intellectual Disabilities](https://www.google.com/url?q=https%3A%2F%2Fwww.npr.org%2F2020%2F06%2F09%2F872401607%2Fcovid-19-infections-and-deaths-are-higher-among-those-with-intellectual-disabili&sa=D&sntz=1&usg=AFQjCNG-fxp8KNXaN3vJM4uxHh0pzPiRTA) {#h.ac7i4tbeyac4 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

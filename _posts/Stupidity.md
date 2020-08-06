@@ -1,3 +1,11 @@
+---
+layout: post
+title: School Closure Stupidity
+description: School Closure Stupidity
+image: 
+tags: COVID-19
+comments: true
+---
 
 [School Closure Stupidity](https://www.google.com/url?q=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-health-coronavirus-denmark-reopening-idUSKBN2341N7&sa=D&sntz=1&usg=AFQjCNHyrCOnKqnBaN3mgSTiVqpncMJ97g) {#h.70fzu4y9t3tm .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

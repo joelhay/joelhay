@@ -1,3 +1,12 @@
+---
+layout: post
+title: Alarmists
+description: The alarmists are going crazy
+image: 
+tags: COVID-19
+comments: true
+---
+
 
 The alarmists are going crazy {#h.npdlwblroxga .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Blood Samples
+description: WHY TEST STORED BLOOD SAMPLES?
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### **WHY TEST STORED BLOOD SAMPLES?** {#h.6nb1i772d9ru .zfr3Q .OmQG5e dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 

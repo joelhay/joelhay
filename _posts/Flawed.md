@@ -1,3 +1,11 @@
+---
+layout: post
+title: Flawed
+description: The Flawed COVID-19 Model
+image: 
+tags: COVID-19
+comments: true
+---
 
 [The Flawed COVID-19 Model](https://www.google.com/url?q=https%3A%2F%2Fwww.iedm.org%2Fthe-flawed-covid-19-model-that-locked-down-canada%2F&sa=D&sntz=1&usg=AFQjCNHvrK8eOHIhSLLHpeENqwnTK5tVAA) {#h.gtoy9n520eoc .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

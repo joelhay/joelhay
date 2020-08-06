@@ -1,3 +1,11 @@
+---
+layout: post
+title: Joel Hay on Dennis Prager Show 
+description: Joel Hay on Dennis Prager Show 
+image: 
+tags: COVID-19
+comments: true
+---
 
 Joel Hay {#h.wkfuswcvylgq .zfr3Q .duRjpb dir="ltr" style="text-align: center;"}
 ========

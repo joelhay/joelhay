@@ -1,3 +1,11 @@
+---
+layout: post
+title: Imperial College London
+description: Another huge embarrassment for the Imperial College London C19 Model
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Another huge embarrassment for the Imperial College London C19 Model](https://www.google.com/url?q=https%3A%2F%2Fwww.spectator.co.uk%2Farticle%2Fsweden-tames-its-r-number-without-lockdown&sa=D&sntz=1&usg=AFQjCNGurmNM_2niT0NigN-H46bbNBaNlA) {#h.o4iviacwxoy1 .zfr3Q .JYVBee dir="ltr"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

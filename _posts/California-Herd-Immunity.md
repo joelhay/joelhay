@@ -1,3 +1,11 @@
+---
+layout: post
+title: California Herd Immunity?
+description: California Herd Immunity?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [California herd immunity?](https://www.google.com/url?q=https%3A%2F%2Fwww.ksbw.com%2Farticle%2Fnew-study-investigates-californias-possible-herd-immunity-to-covid-19%2F32073873%23&sa=D&sntz=1&usg=AFQjCNGOUcVCObwUCUQ8AN4o79uClf1SDg) {#h.jzoq8md9gffi .zfr3Q .duRjpb dir="ltr" style="text-align: center;"}
 =======================================================================================================================================================================================================================================

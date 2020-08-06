@@ -1,3 +1,11 @@
+---
+layout: post
+title: Why are US schools still closed?
+description: Why are US schools still closed?
+image: 
+tags: COVID-19
+comments: true
+---
 
 Why are US schools still closed? {#h.chlb6a9u75fr .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Contact Tracing Works?
+description: WHY CONTACT TRACING DOESN’T WORK
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### **WHY CONTACT TRACING DOESN’T WORK** {#h.wor71bq5f1m .zfr3Q .OmQG5e dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 

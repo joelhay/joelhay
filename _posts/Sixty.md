@@ -1,3 +1,11 @@
+---
+layout: post
+title: Cases Up, Deaths Way Down!
+description: Cases Up, Deaths Way Down!
+image: 
+tags: COVID-19
+comments: true
+---
 
 Cases Up, Deaths Way Down! {#h.u0d8vfwkb2kf .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------

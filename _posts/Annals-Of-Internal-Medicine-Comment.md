@@ -1,3 +1,11 @@
+---
+layout: post
+title: Annals of Internal Medicine Comment
+description: Annals of Internal Medicine Comment
+image: 
+tags: COVID-19
+comments: true
+---
 
 Annals of Internal Medicine Comment {#h.6lkbdkgdl906 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------

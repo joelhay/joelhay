@@ -1,3 +1,11 @@
+---
+layout: postWhy won't Trump fire the Three Stooges
+title: 
+description: Why won't Trump fire the Three Stooges
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Why won't Trump fire the Three Stooges](https://www.google.com/url?q=https%3A%2F%2Fwww.npr.org%2F2020%2F06%2F14%2F876714225%2Fwhat-mussels-can-teach-us-about-false-positive-covid-19-tests&sa=D&sntz=1&usg=AFQjCNGs_Xcha5OHu96vvzhC9K6ITcV5nw) {#h.d01tkvz41p7 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

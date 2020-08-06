@@ -1,3 +1,11 @@
+---
+layout: post
+title: So where are all the spikes in C19 cases among US prisoners?
+description: So where are all the spikes in C19 cases among US prisoners?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [So where are all the spikes in C19 cases among US prisoners?](https://www.google.com/url?q=https%3A%2F%2Fn.pr%2F2RNV5UG&sa=D&sntz=1&usg=AFQjCNFtr6ZaHCdTuRXz1agrA-OGZgHCgA) {#h.ysc5ctbsy8z7 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------

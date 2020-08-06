@@ -1,3 +1,11 @@
+---
+layout: post
+title: What are the justifications for SICs? All of it is post hoc justification.
+description: What are the justifications for SICs? All of it is post hoc justification.
+image: 
+tags: COVID-19
+comments: true
+---
 
 [What are the justifications for SICs? All of it is post hoc justification.](https://www.google.com/url?q=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-us-canada-52177586&sa=D&sntz=1&usg=AFQjCNHYHM-B8b8Hsl0gAuIHhbs-srzENQ) {#h.2l8eyabk9fmf .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: NYC
+description: New York City!
+image: 
+tags: COVID-19
+comments: true
+---
 
 New York City! {#h.iy3r44ufei6u .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------

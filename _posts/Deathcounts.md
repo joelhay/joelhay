@@ -1,3 +1,11 @@
+---
+layout: post
+title: Deathcounts
+description: Provisional Death Counts for Coronavirus Disease
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Provisional Death Counts for Coronavirus Disease](https://www.google.com/url?q=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fnvss%2Fvsrr%2FCOVID19%2F&sa=D&sntz=1&usg=AFQjCNF0-vJnyvhO1P1EWPr3faFwrnDTgA) {#h.12b258of9d24 .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

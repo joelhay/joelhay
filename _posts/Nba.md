@@ -1,3 +1,11 @@
+---
+layout: post
+title: NBA 
+description: NBA players, Von Miller, other sports figures who tested positive for COVID-19
+image: 
+tags: COVID-19
+comments: true
+---
 
 [NBA players, Von Miller, other sports figures who tested positive for COVID-19](https://www.google.com/url?q=https%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnba%2Fnews%2Fcoronavirus-updates-nba-players-sean-payton-sports-test-positive-covid-19%2Fsm1jjsmu150r1oppji3ae32vj&sa=D&sntz=1&usg=AFQjCNErPQXNrktqi2xsrtzwrRgLnQGe8w) {#h.jhw2lxxbr1pm .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

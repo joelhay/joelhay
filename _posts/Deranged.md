@@ -1,3 +1,11 @@
+---
+layout: post
+title: C19 derangement syndrome
+description: C19 derangement syndrome
+image: 
+tags: COVID-19
+comments: true
+---
 
 [C19 derangement syndrome](https://www.google.com/url?q=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fcoronavirus-latest-news-05-27-2020-11590568096%3Fmod%3DdjemalertNEWS&sa=D&sntz=1&usg=AFQjCNEd0Jh3-VcR52xmm4YFj6Bco-7QlA) {#h.nnptacvyat8o .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

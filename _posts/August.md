@@ -1,3 +1,11 @@
+---
+layout: post
+title: C19 in August?
+description: C19 in August?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [C19 in August?](https://www.google.com/url?q=https%3A%2F%2Fwww.cnn.com%2F2020%2F06%2F08%2Fhealth%2Fsatellite-pics-coronavirus-spread%2Findex.html&sa=D&sntz=1&usg=AFQjCNHCTX8mbT_cDxxDArGa0EXmYfdxWg) {#h.xk6w6aawtkvk .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Excess Mortality
+description: Excess Mortality
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Excess Mortality](https://www.google.com/url?q=https%3A%2F%2Fepisphere.github.io%2Fmortalitytracker%2F%23cause%3Dnaturalcause%26state%3DAll%2520States&sa=D&sntz=1&usg=AFQjCNGUS-wUc2oQjQG7uGAXlUTIqP2ZIQ) {#h.e8qlkyq4irb3 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

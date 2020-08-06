@@ -1,3 +1,11 @@
+---
+layout: post
+title: Fauci's Alarmism
+description: Fauci's Alarmism
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Fauci's Alarmism](https://www.google.com/url?q=https%3A%2F%2Fjustthenews.com%2Fpolitics-policy%2Fhealth%2Fdr-faucis-recurring-nightmares-covid-19-might-be-his-worst-its-sure-not-his&sa=D&sntz=1&usg=AFQjCNEw6oRCz4lNMl6Vfjj1xH3aKQi3pg) {#h.laisb83c6gtv .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

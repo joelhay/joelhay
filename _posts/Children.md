@@ -1,3 +1,11 @@
+---
+layout: post
+title: Children
+description: Is anyone surprised that kids are the biggest victims of the useless lockdowns?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Is anyone surprised that kids are the biggest victims of the useless lockdowns?](https://www.google.com/url?q=https%3A%2F%2Fwww.nytimes.com%2F2020%2F05%2F26%2Fus%2Fcoronavirus-live-updates.html%3Faction%3Dclick%26module%3DSpotlight%26pgtype%3DHomepage&sa=D&sntz=1&usg=AFQjCNG8KJTbhK5ybtKiulXjPVRNX6tGrQ) {#h.a81676p4nm8z .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

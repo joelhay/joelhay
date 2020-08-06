@@ -1,3 +1,11 @@
+---
+layout: post
+title: More States to Look At
+description: More States to Look At
+image: 
+tags: COVID-19
+comments: true
+---
 
 [More States to Look At](https://www.google.com/url?q=https%3A%2F%2Fepisphere.github.io%2Fmortalitytracker%2F%23cause%3Dallcause%26state%3DAll%2520States&sa=D&sntz=1&usg=AFQjCNFy88I6q4EhfFCIwgJsxCpB_LRhLg) {#h.zby9pvocmi29 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

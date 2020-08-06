@@ -1,3 +1,11 @@
+---
+layout: post
+title: C19 Is Everywhere
+description: 88% of C19-Positive Pregnant Women are Asymptomatic!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [88% of C19-Positive Pregnant Women are Asymptomatic!](https://www.google.com/url?q=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMc2009316&sa=D&sntz=1&usg=AFQjCNGt7ykusw0X3p4Ekp1vXJDktZxFMQ) {#h.df6zzenibs4q .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

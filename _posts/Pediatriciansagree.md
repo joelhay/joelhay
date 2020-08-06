@@ -1,3 +1,11 @@
+---
+layout: post
+title: Pediatricians Agree
+description: Pediatricians Agree
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Pediatricians Agree](https://www.google.com/url?q=https%3A%2F%2Fnewsradiowrva.radio.com%2Fblogs%2Fjeff-katz%2Fon-msnbc-top-pediatricians-unanimously-say-reopen-schools&sa=D&sntz=1&usg=AFQjCNEK6_AWhiguhjFQRXn-Hy_V9LenwA) {#h.b9d9juraydh .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

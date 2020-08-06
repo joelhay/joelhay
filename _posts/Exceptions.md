@@ -1,3 +1,11 @@
+---
+layout: post
+title: Exceptions
+description: Exceptions for Public Officials
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Exceptions for Public Officials](https://www.google.com/url?q=https%3A%2F%2Fwww.politico.com%2Famp%2Fnews%2Fmagazine%2F2020%2F06%2F04%2Fpublic-health-protests-301534%3F__twitter_impression%3Dtrue&sa=D&sntz=1&usg=AFQjCNG_2-g1NCx-bfed_cJ5z8zzrEpKVA) {#h.hmjzu111vvl2 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

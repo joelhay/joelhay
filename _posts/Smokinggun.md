@@ -1,3 +1,11 @@
+---
+layout: post
+title: How many smoking guns do we need
+description: How many smoking guns do we need
+image: 
+tags: COVID-19
+comments: true
+---
 
 [How many smoking guns do we need](https://www.google.com/url?q=https%3A%2F%2Fuk.reuters.com%2Farticle%2Fus-health-coronavirus-italy-sewage%2Fitaly-sewage-study-suggests-covid-19-was-there-in-december-2019-idUKKBN23Q1J9&sa=D&sntz=1&usg=AFQjCNFykUzrZtueD6DhrdJUdm7wBe2ZTA)[?](https://www.google.com/url?q=https%3A%2F%2Fuk.reuters.com%2Farticle%2Fus-health-coronavirus-italy-sewage%2Fitaly-sewage-study-suggests-covid-19-was-there-in-december-2019-idUKKBN23Q1J9&sa=D&sntz=1&usg=AFQjCNFykUzrZtueD6DhrdJUdm7wBe2ZTA) {#h.eocfg1vo2j7z .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

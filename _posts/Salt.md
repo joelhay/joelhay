@@ -1,3 +1,11 @@
+---
+layout: post
+title: Neil! for Godsake! Why didn't you tell us
+description: Neil! for Godsake! Why didn't you tell us
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Neil! for Godsake! Why didn't you tell us](https://www.google.com/url?q=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2020%2F06%2F02%2Fprof-lockdown-neil-ferguson-admits-sweden-used-science-uk-has%2F&sa=D&sntz=1&usg=AFQjCNHAAfvR7sGdxN3a61hicv_PSNnl1Q) {#h.y4tgd9lhk6dj .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,3 +1,11 @@
+---
+layout: post
+title: Lockdowns are Useless
+description: Lockdowns are Useless
+image: 
+tags: COVID-19
+comments: true
+---
 
 Lockdowns are Useless {#h.lda3ddwzsv0z .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------

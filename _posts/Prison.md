@@ -1,3 +1,11 @@
+---
+layout: post
+title: COVID-19 Inmate Testing
+description: COVID-19 Inmate Testing
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [COVID-19 Inmate Testing | UPDATED: 4/21/2020](https://www.google.com/url?q=https%3A%2F%2Fcoronavirus.ohio.gov%2Fstatic%2FDRCCOVID-19Information.pdf&sa=D&sntz=1&usg=AFQjCNH-GBTNdfuiN3eemqNLG9GS_i7h4w) {#h.sujrmo119usk .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

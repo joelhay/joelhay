@@ -1,3 +1,11 @@
+---
+layout: post
+title: Barcelona
+description: COVID appeared in March 2019 in Barcelona!
+image: 
+tags: COVID-19
+comments: true
+---
 
 COVID appeared in March 2019! {#h.njhh4r4klw4k .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------

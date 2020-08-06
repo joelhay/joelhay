@@ -1,3 +1,11 @@
+---
+layout: post
+title: 2.3 million US prisoners, less than 100 deaths!
+description: 2.3 million US prisoners, less than 100 deaths!
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### \
 [2.3 million US prisoners, less than 100 deaths!](https://www.google.com/url?q=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-health-coronavirus-prisons-testing-in%2Fin-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX&sa=D&sntz=1&usg=AFQjCNFb7sxDl2DEIZYrxgnu8ax1-f0SZA) {#h.knetarcctsmz .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}

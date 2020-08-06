@@ -1,3 +1,11 @@
+---
+layout: post
+title: 92% of Westville inmates tested are positive for COVID-19
+description: 92% of Westville inmates tested are positive for COVID-19
+image: 
+tags: COVID-19
+comments: true
+---
 
 [92% of Westville inmates tested are positive for COVID-19](https://www.google.com/url?q=https%3A%2F%2Fwww.chicagotribune.com%2Fsuburbs%2Fpost-tribune%2Fct-ptb-corona-update-st-0423-20200422-zmkdmb2k6ncbnkh7zc6nxxzasa-story.html&sa=D&sntz=1&usg=AFQjCNFUljwTVpCOP9Wl06WVqkFt-QvzBg) {#h.um6gxl5a5st .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

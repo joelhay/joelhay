@@ -1,3 +1,11 @@
+---
+layout: post
+title: Thank God for those masks though
+description: Thank God for those masks though
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Thank](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6670335861772685313%2F&sa=D&sntz=1&usg=AFQjCNHHQXYEbZJNN1lrLJfDbTk1VDZdfw)[G](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6670335861772685313%2F&sa=D&sntz=1&usg=AFQjCNHHQXYEbZJNN1lrLJfDbTk1VDZdfw)[od for those masks though](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6670335861772685313%2F&sa=D&sntz=1&usg=AFQjCNHHQXYEbZJNN1lrLJfDbTk1VDZdfw) {#h.l72jc64rrvfx .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

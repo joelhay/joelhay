@@ -1,3 +1,11 @@
+---
+layout: post
+title: Truth about PCR Testing
+description: Truth about PCR Testing
+image: 
+tags: COVID-19
+comments: true
+---
 
 Truth about PCR Testing {#h.3lnbqpd9oftq .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------

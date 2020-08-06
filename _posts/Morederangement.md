@@ -1,3 +1,11 @@
+---
+layout: post
+title: More C19 Derangement Syndrome
+description: More C19 Derangement Syndrome
+image: 
+tags: COVID-19
+comments: true
+---
 
 [More C19 Derangement Syndrome](https://www.google.com/url?q=https%3A%2F%2Ftbsnews.net%2Fcoronavirus-chronicle%2Fcovid-19-bangladesh%2Fbangladesh-reports-highest-single-day-spike-40-deaths&sa=D&sntz=1&usg=AFQjCNHsQZfIxKxYMu7Q3Abvd11okYw3jQ) {#h.7o55hxfa06jp .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

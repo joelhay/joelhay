@@ -1,3 +1,11 @@
+---
+layout: post
+title: Detailed Pediatric C19 Data
+description: Detailed Pediatric C19 Data
+image: 
+tags: COVID-19
+comments: true
+---
 
 Detailed Pediatric C19 Data {#h.8bjahkjm5qfc .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------

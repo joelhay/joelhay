@@ -1,3 +1,11 @@
+---
+layout: post
+title: Briggs calls it right!
+description: Yes more examples of C19 Derangement Syndrome by public officials. Briggs calls it right.
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Briggs calls it right!](https://www.google.com/url?q=https%3A%2F%2Fwmbriggs.com%2Fpost%2F31339%2F&sa=D&sntz=1&usg=AFQjCNH77sbRCCkCPzm5b7WSnl_pMq_iPg) {#h.hwn4e3bnwrx3 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------

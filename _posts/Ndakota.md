@@ -1,3 +1,11 @@
+---
+layout: post
+title: North Dakota
+description: Like Sweden; South Dakota never locked down!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Like Sweden; South Dakota never locked down!](https://www.google.com/url?q=https%3A%2F%2Fwww.foxnews.com%2Fmedia%2Fsouth-dakota-gov-noem-unveils-back-to-normal-plan-says-it-places-power-in-hands-of-the-people&sa=D&sntz=1&usg=AFQjCNEwoJTIiwWW70IiKBIE7RdujJEBJQ) {#h.p6njmtpgyepq .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

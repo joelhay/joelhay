@@ -1,3 +1,11 @@
+---
+layout: post
+title: The IHME/Bill Gates model has no clothes!
+description: The IHME/Bill Gates model has no clothes!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [The IHME/Bill Gates model has no clothes!](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fjoelhay_ihmegates-model-activity-6656242160138092544-fmKB%2F&sa=D&sntz=1&usg=AFQjCNEN0K1_uoFK1g4RNQ_o-P263-a5CA) {#h.awb0odm9l48e .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

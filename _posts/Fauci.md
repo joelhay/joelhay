@@ -1,3 +1,11 @@
+---
+layout: post
+title: Fauci
+description: CDC Director on Hot Seat
+image: 
+tags: COVID-19
+comments: true
+---
 
 [CDC Director on Hot Seat](https://www.google.com/url?q=https%3A%2F%2Fjustthenews.com%2Fpolitics-policy%2Fcoronavirus%2Fdeborah-birx-reportedly-cant-trust-covid-19-numbers-robert-redfields&sa=D&sntz=1&usg=AFQjCNH1KWslpJpV22K0bZFDCgsozu8Nrw) {#h.28vimjacjnxg .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

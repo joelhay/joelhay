@@ -1,3 +1,11 @@
+---
+layout: post
+title: A New York study suggests a much wider exposure to the virus.
+description: A New York study suggests a much wider exposure to the virus.
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [A New York study suggests a much wider exposure to the virus.](https://www.google.com/url?q=https%3A%2F%2Fwww.nytimes.com%2F2020%2F04%2F24%2Fus%2Fcoronavirus-updates.html%3Faction%3Dclick%26module%3DSpotlight%26pgtype%3DHomepage%23link-1fa27ad8&sa=D&sntz=1&usg=AFQjCNHoYEqa9K99YHQP5L4pIkuzcLunEA) {#h.5vueqetnjnr6 .zfr3Q .OmQG5e dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
 

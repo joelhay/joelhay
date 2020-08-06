@@ -1,3 +1,11 @@
+---
+layout: post
+title: Joel Hay at Freedom Fest
+description: Joel Hay at Freedom Fest
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Joel Hay at Freedom Fest](https://www.youtube.com/watch?v=2cO2ovHRk5M) {#h.iq7eekvthmct .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------

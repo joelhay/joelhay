@@ -1,3 +1,11 @@
+---
+layout: post
+title: William M. Briggs
+description: Bad Arguments For Lockdowns & The Burden Of Proof.
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Bad Arguments For Lockdowns & The Burden Of Proof.](https://www.google.com/url?q=https%3A%2F%2Fwmbriggs.com%2Fpost%2F30884%2F&sa=D&sntz=1&usg=AFQjCNHj7VTlqqkzhutwzeO5c9MnMMqXBw) {#h.2h9s3j9h5o77 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

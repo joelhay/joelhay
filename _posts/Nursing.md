@@ -1,3 +1,11 @@
+---
+layout: post
+title: Nursing Homes
+description: Why are we not taking care of the people in nursing homes
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Why are we not taking care of the people in nursing homes](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fpa-covid-19-data-511-vulnerable-deaths-tests-reported-claire-smyth%2F&sa=D&sntz=1&usg=AFQjCNFbAdfIFexCYPaHu3GKhWBDBiTliQ) {#h.9fjb1a7pyu2 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

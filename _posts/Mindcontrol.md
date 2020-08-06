@@ -1,3 +1,11 @@
+---
+layout: post
+title: Mind Control
+description: Mind Control Device
+image: 
+tags: COVID-19
+comments: true
+---
 
 Mind Control Device {#h.ub5ifyasfcm1 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -------------------

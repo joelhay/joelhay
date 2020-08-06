@@ -1,3 +1,11 @@
+---
+layout: post
+title: Death Rate Down
+description: If Coronavirus Threat’s So Great, Why’s U.S. Overall Death Rate Down?
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### [If Coronavirus Threat’s So Great, Why’s U.S. Overall Death Rate Down?](https://www.google.com/url?q=https%3A%2F%2Fissuesinsights.com%2F2020%2F04%2F28%2Fif-coronavirus-threats-so-great-whys-u-s-overall-death-rate-down%2F&sa=D&sntz=1&usg=AFQjCNG6WW4SRx09iqNRvFYDxIcpN_nnow) \
  {#h.7lf3wf20kzsa .zfr3Q .OmQG5e dir="ltr" style="text-align: left;"}

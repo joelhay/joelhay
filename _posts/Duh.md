@@ -1,3 +1,11 @@
+---
+layout: post
+title: Well Duh!
+description: Well Duh!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Well Duh!](https://www.google.com/url?q=https%3A%2F%2Freason.com%2F2020%2F06%2F02%2Fdid-covid-19-lockdown-orders-help-fuel-riots-nationwide%2F&sa=D&sntz=1&usg=AFQjCNGBSwSJpj22O8Zegv8p85B86f-aFg) {#h.58ds9b752qt1 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

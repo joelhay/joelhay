@@ -1,3 +1,11 @@
+---
+layout: post
+title: LOCKDOWNS ARE KILLING PEOPLE!
+description: LOCKDOWNS ARE KILLING PEOPLE!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [LOCKDOWNS ARE KILLING PEOPLE!](https://www.youtube.com/watch?v=s9eMoOmJaGM) {#h.ts1xfnz64iy2 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------

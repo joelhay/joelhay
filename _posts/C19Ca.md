@@ -1,3 +1,11 @@
+---
+layout: post
+title: C19 in California
+description: Proof that C19 was in California last year. Long before the useless lockdowns!
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Proof that C19 was in California last year. Long before the useless lockdowns!](https://www.google.com/url?q=https%3A%2F%2Fwww.mercurynews.com%2F2020%2F04%2F23%2Fshe-held-the-family-together-san-jose-woman-is-first-known-u-s-covid-19-death%2F&sa=D&sntz=1&usg=AFQjCNFA9-N5z2DC79MsAdtJcdthd8akpw) {#h.rb1y7pwn6xev .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

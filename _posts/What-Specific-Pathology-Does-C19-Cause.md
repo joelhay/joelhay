@@ -1,3 +1,11 @@
+---
+layout: post
+title: What specific pathology does C19 cause?
+description: What specific pathology does C19 cause?
+image: 
+tags: COVID-19
+comments: true
+---
 
 [What specific pathology does C19 cause?](https://www.google.com/url?q=https%3A%2F%2Fwww.medicinenet.com%2Fscript%2Fmain%2Fart.asp%3Farticlekey%3D7105&sa=D&sntz=1&usg=AFQjCNFqGni-Ex8zobB-0WSaAOBMv6GNnQ) {#h.q3p78573ucmo .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

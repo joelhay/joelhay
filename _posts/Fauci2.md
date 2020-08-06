@@ -1,3 +1,11 @@
+---
+layout: post
+title: Fauci's Mandatory Vaccine Narrative
+description: Fauci's Mandatory Vaccine Narrative
+image: 
+tags: COVID-19
+comments: true
+---
 
 [M](https://www.google.com/url?q=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Fdr-fauci-warns-anti-vaxxers-124305486.html&sa=D&sntz=1&usg=AFQjCNGCyyS9fwcL7wXYfPs8_fbmfZ83xA)[andatory](https://www.google.com/url?q=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Fdr-fauci-warns-anti-vaxxers-124305486.html&sa=D&sntz=1&usg=AFQjCNGCyyS9fwcL7wXYfPs8_fbmfZ83xA)[V](https://www.google.com/url?q=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Fdr-fauci-warns-anti-vaxxers-124305486.html&sa=D&sntz=1&usg=AFQjCNGCyyS9fwcL7wXYfPs8_fbmfZ83xA)[accine](https://www.google.com/url?q=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Fdr-fauci-warns-anti-vaxxers-124305486.html&sa=D&sntz=1&usg=AFQjCNGCyyS9fwcL7wXYfPs8_fbmfZ83xA)[N](https://www.google.com/url?q=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Fdr-fauci-warns-anti-vaxxers-124305486.html&sa=D&sntz=1&usg=AFQjCNGCyyS9fwcL7wXYfPs8_fbmfZ83xA)[arrative](https://www.google.com/url?q=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Fdr-fauci-warns-anti-vaxxers-124305486.html&sa=D&sntz=1&usg=AFQjCNGCyyS9fwcL7wXYfPs8_fbmfZ83xA) {#h.c7kpzlbj0j2v .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

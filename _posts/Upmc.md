@@ -1,3 +1,11 @@
+---
+layout: post
+title: UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal
+description: UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal
+image: 
+tags: COVID-19
+comments: true
+---
 
 ### \\[UPMC doctor argues COVID-19 not as deadly as feared, says its hospitals will shift back to normal](https://www.google.com/url?q=https%3A%2F%2Fwww.pennlive.com%2Fnews%2F2020%2F04%2Fumpc-argues-covid-19-not-as-deadly-as-feared-says-its-hospitals-will-shift-back-to-normal.html&sa=D&sntz=1&usg=AFQjCNHUIO1UB0er5dqNf0RdGguEzHEKzA) {#h.h7nxpl8kztkm .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
 

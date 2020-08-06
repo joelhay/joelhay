@@ -1,3 +1,11 @@
+---
+layout: post
+title: Fund HK Flue
+description: The Forgotten Hong Kong Flu Pandemic of 1968 Has Lessons for Today
+image: 
+tags: COVID-19
+comments: true
+---
 
 [The Forgotten Hong Kong Flu Pandemic of 1968 Has Lessons for Today](https://www.google.com/url?q=https%3A%2F%2Fwww.nationalreview.com%2F2020%2F04%2Fcoronavirus-crisis-lessons-1968-hong-kong-flu-pandemic%2F&sa=D&sntz=1&usg=AFQjCNFyDFKa8XE1gsVF6HytEtwotcEKVQ) {#h.ff00xur9h58q .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

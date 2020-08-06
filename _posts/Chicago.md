@@ -1,3 +1,11 @@
+---
+layout: post
+title: Chicago
+description: Chicago's Jail is Top U.S. Hot Spot
+image: 
+tags: COVID-19
+comments: true
+---
 
 [Chicago's Jail is Top U.S. Hot Spot](https://www.google.com/url?q=https%3A%2F%2Fwww.nytimes.com%2F2020%2F04%2F08%2Fus%2Fcoronavirus-cook-county-jail-chicago.html&sa=D&sntz=1&usg=AFQjCNHn6LLSlK4Y8vSHT0kpXJiMCsZs1w) {#h.bmic5n8lniae .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: center; text-indent: 0;"}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
