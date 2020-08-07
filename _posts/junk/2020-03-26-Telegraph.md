@@ -1,7 +1,7 @@
 ---
 layout: post
-title: National Review
-description: National Review
+title: Telegraph
+description: Telegraph
 image: 
 tags: COVID-19
 comments: true
