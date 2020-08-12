@@ -7,7 +7,7 @@ tags: COVID-19
 comments: true
 ---
 
-[California herd immunity?](https://www.google.com/url?q=https%3A%2F%2Fwww.ksbw.com%2Farticle%2Fnew-study-investigates-californias-possible-herd-immunity-to-covid-19%2F32073873%23&sa=D&sntz=1&usg=AFQjCNGOUcVCObwUCUQ8AN4o79uClf1SDg) {#h.jzoq8md9gffi .zfr3Q .duRjpb dir="ltr" style="text-align: center;"}
+[California herd immunity?](https://www.google.com/url?q=https%3A%2F%2Fwww.ksbw.com%2Farticle%2Fnew-study-investigates-californias-possible-herd-immunity-to-covid-19%2F32073873%23&sa=D&sntz=1&usg=AFQjCNGOUcVCObwUCUQ8AN4o79uClf1SDg) 
 =======================================================================================================================================================================================================================================
 
 [![](https://lh4.googleusercontent.com/QniB-SR5rOtF8JOtLtCp3yLHurwqUxBxF8r_4uJvt2s9L5yV3j6fnRdWZ4nPxtOKRiMJg8G3AvKWXDQ2DmojfKJLCSuavQXYWXrpgNayO01kX_yDvQ=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
@@ -27,4 +27,3 @@ its order.
 Davis Hanson a senior fellow with Stanford's Hoover Institute.
 \#pandemic \#vaccines \#antibodies \#C19
 
-\

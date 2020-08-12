@@ -7,7 +7,7 @@ tags: COVID-19
 comments: true
 ---
 
-[Bad Arguments For Lockdowns & The Burden Of Proof.](https://www.google.com/url?q=https%3A%2F%2Fwmbriggs.com%2Fpost%2F30884%2F&sa=D&sntz=1&usg=AFQjCNHj7VTlqqkzhutwzeO5c9MnMMqXBw) {#h.2h9s3j9h5o77 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
+[Bad Arguments For Lockdowns & The Burden Of Proof.](https://www.google.com/url?q=https%3A%2F%2Fwmbriggs.com%2Fpost%2F30884%2F&sa=D&sntz=1&usg=AFQjCNHj7VTlqqkzhutwzeO5c9MnMMqXBw) 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![](https://lh5.googleusercontent.com/S1FzdnZ6IDAPCZC0HSE9_go9EnU6tlQyFspTZNB9ff4jzIcf1LsFCM4JkF8AC5_3SBP7MoNkM_5fPFqn7WXsw7fTBu5ohXZO_elJvAqgzfzg19HbVTo=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)

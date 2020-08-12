@@ -17,8 +17,6 @@ On
 I've been saying that from Day One of the C19 pandemic (first 100 cases
 or 10 deaths) that it was EVERYWHERE!!!! The globe was SEROSATURATED!!!!
 
-\
-
 Now we're back to March, 2019 with C19 guys!
 
 What good is a lockdown of a fastmoving airborne virus (novel at that)

@@ -76,4 +76,4 @@ mortality. Soc Sci Med. 2011;72(6):840-54.
 
 *Blog page written on April 4, 2020*
 
-\
+
