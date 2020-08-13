@@ -5,13 +5,8 @@ description: What are the justifications for SICs? All of it is post hoc justifi
 image: 
 tags: COVID-19
 comments: true
+link: https://www.bbc.com/news/world-us-canada-52177586
 ---
-
-[What are the justifications for SICs? All of it is post hoc justification.](https://www.google.com/url?q=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-us-canada-52177586&sa=D&sntz=1&usg=AFQjCNHYHM-B8b8Hsl0gAuIHhbs-srzENQ) {#h.2l8eyabk9fmf .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![](https://lh4.googleusercontent.com/j2taWHWo2z1F6kzSTZIRtFpjl-je77MZ0Y-DUxxDiXpivmM_QT0KFQVNdkHK0cGaz1Ds3_WgNxSeZnX9lywAkzJTfOzMWMFD57UTsdh8Td1S6tmqkr8=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
 Where is any evidence that SICs work when they are started 2 weeks into
 the C19 PCR+ case reporting? We know that by March 3, 2020, which is the
 day that the US hit 100 PCR+ cases, there had to be many many people
@@ -28,5 +23,3 @@ lock down all house pets?
 
 The antibody tests will answer that question in Santa Clara County in a
 couple weeks.
-
-\

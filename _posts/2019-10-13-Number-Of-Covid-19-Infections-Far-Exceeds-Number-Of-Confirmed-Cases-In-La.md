@@ -5,23 +5,9 @@ description: Number of COVID-19 Infections Far Exceeds Number of Confirmed Cases
 image: 
 tags: COVID-19
 comments: true
+link: http://www.publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2328
 ---
-
-Number of COVID-19 Infections Far Exceeds Number of Confirmed Cases in Los Angeles County {#h.ckopi4juzt0u .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
------------------------------------------------------------------------------------------
-
-[![](https://lh6.googleusercontent.com/gqLvgMIBlq_KRBfi5t57mGjVKiAhbhDacwMUC_LxYLP-FiJsB6wVNzmEv1KOwoY9yjBfVupO6mx8CaSrih-HOBjwvdL1KqhIhrKr4sMuJJdZlfHXNok=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
-Number of COVID-19 Infections Far Exceeds Number of Confirmed Cases in
-Los Angeles County Los Angeles (April 20, 2020) -
-
-\
-
-[https://lnkd.in/g2-kDCw](https://www.google.com/url?q=https%3A%2F%2Flnkd.in%2Fg2-kDCw&sa=D&sntz=1&usg=AFQjCNF50FHspkuF6ocLnr_LE0E0h6-yPw)
-
-\
-
-2:02
+April 20, 2020
 
 USC and the Los Angeles County Department of Public Health (Public
 Health) today released preliminary results from a collaborative
