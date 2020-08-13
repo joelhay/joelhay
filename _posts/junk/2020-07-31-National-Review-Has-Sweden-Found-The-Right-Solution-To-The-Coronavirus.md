@@ -6,6 +6,7 @@ description: National Review: Has Sweden Found The Right Solution To The Coroniv
 image: 
 tags: COVID-19
 comments: true
+published: false
 ---
 
 [National Review: Has Sweden Found the Right Solution to the Coronavirus?](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F2Vfmjpk&sa=D&sntz=1&usg=AFQjCNFUe7qDEaSsz8oR-ynvczhDpJ9RPg) {#h.v55n9xe94ghz .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
