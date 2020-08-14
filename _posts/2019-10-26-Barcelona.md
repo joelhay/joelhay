@@ -6,7 +6,7 @@ image:
 tags: COVID-19
 comments: true
 ---
-On [joelhay.com](joelhay.com)I've been saying that from Day One of the C19 pandemic (first 100 cases
+On [joelhay.com](joelhay.com) I've been saying that from Day One of the C19 pandemic (first 100 cases
 or 10 deaths) that it was EVERYWHERE!!!! The globe was SEROSATURATED!!!!
 
 Now we're back to March, 2019 with C19 guys!

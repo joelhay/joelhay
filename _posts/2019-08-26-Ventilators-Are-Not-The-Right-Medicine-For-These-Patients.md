@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ventilators are not the right medicine for these patients.
-description: Ventilators are not the right medicine for these patients.
+title: Ventilators Are Not the Right Medicine For These Patients
+description: Ventilators Are Not the Right Medicine For These Patients
 image: 
 tags: COVID-19
 comments: true
