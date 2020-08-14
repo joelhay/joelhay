@@ -6,15 +6,7 @@ image:
 tags: COVID-19
 comments: true
 ---
-
-Annals of Internal Medicine Comment {#h.6lkbdkgdl906 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
------------------------------------
-
-[![](https://lh5.googleusercontent.com/U4ImyrzRDfvnQn0I8rOprzSzHUSNQ4PxbQd6DgJlhFZQ3rJMGQPJzcgutk_-0VrzbDV3ohvRf1jmqSRL4vdefygDMfIXNDzD2ruZI3AHuZyFgeGgybJk=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
-[Annals of Internal Medicine: Optimizing Policy in Response to COVID-19
-Click for article (article is in the comments
-tab)](https://www.google.com/url?q=https%3A%2F%2Fannals.org%2Faim%2Ffullarticle%2F2762808%2Fincubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported%23article-top&sa=D&sntz=1&usg=AFQjCNFgAj6WPSNgPTch3kdJClh1EwPJwQ)
+[Annals of Internal Medicine: Optimizing Policy in Response to COVID-19 Click for article (article is in the comments tab)](https://www.google.com/url?q=https%3A%2F%2Fannals.org%2Faim%2Ffullarticle%2F2762808%2Fincubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported%23article-top&sa=D&sntz=1&usg=AFQjCNFgAj6WPSNgPTch3kdJClh1EwPJwQ)
 
 Published March 20th
 

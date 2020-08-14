@@ -6,16 +6,9 @@ image:
 tags: COVID-19
 comments: true
 ---
-
-What Joel Hay Really Thinks! {#h.x3d4l383xs4 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
-----------------------------
-
-[![](https://lh4.googleusercontent.com/yNwQApQ80YYtxPg86cgyccl1hJLtaEs0oTZCNDC036U5f1Y-zIT5lsRJgEI_kJmcS5XpEc8U_VX7WGqBkiBSTar9jbiKaCaGLduAgkIlGvqdw24nGZ4=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
 Not sure how much more misinformed everyone could possibly be of the
 actual facts.
 
-\
 
 ​1) Masks don't work! All social isolation controls don't work!
 
@@ -35,4 +28,4 @@ then lockdowns are a cruel joke!
 Vietnamese love to eat rats! They lick and rub them all over their faces
 and mouths! ZERO DEATHS!
 
-![](https://lh3.googleusercontent.com/GU9xchH7LqXKhiXLze35R3EcUbNUFZ6JVevgKOjQU_SiZxFvaRYWJGFuGHShBqR_3ztz7P9gB0pRJWjmGuxFm5osji4aEU7k9x8aSDSYTMl0Oupw_0CH=w1280)
+![](https://lh4.googleusercontent.com/AnDl8Of9HyMuL7ypd64bOl5brbbuZ6vOhQb-UNEmXlHvW931jreXl-3YXz1jzZB0WvxSyrt-a4A6SDCNsXgkF-sKp38rmD0c7yrUBvf6GkwPsRRckrCf=w1280)

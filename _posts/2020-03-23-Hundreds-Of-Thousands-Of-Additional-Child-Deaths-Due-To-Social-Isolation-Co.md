@@ -5,17 +5,10 @@ description: Hundreds of thousands of additional child deaths due to Social Isol
 image: 
 tags: COVID-19
 comments: true
+link: https://www.un.org/sites/un2.un.org/files/policy_brief_on_covid_impact_on_children_16_april_2020.pdf
 ---
-
-[Hundreds of thousands of additional child deaths due to Social Isolation](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F3bmmQvo&sa=D&sntz=1&usg=AFQjCNGPX7yuGlcNoEQTy5gXA9V9GtNqyw)[ontrols (SICs)](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F3bmmQvo&sa=D&sntz=1&usg=AFQjCNGPX7yuGlcNoEQTy5gXA9V9GtNqyw) {#h.9u3qvhko1ee9 .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![](https://lh3.googleusercontent.com/8VCaUnrVJSIvlXku8hJUNMZrX86jxyE_hfKV8isisQh6xNMAO_HG-0tcnBSyZA4EJ74daaMTwet523aEmiN2fRItM1XOB5EJTqyjVnB2mq_eQr7IsUg=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
 Hundreds of thousands of additional child deaths due to Social Isolation
 Controls (SICs)
-
-[https://lnkd.in/gKhpjyh](https://www.google.com/url?q=https%3A%2F%2Flnkd.in%2FgKhpjyh&sa=D&sntz=1&usg=AFQjCNGuvQGElCRBLlOWyR6pInydwptsSQ)
 
 Noted this para on p 9:
 
@@ -29,4 +22,3 @@ additional child deaths could occur in 2020 compared to a pre-pandemic
 counterfactual scenario. This would effectively reverse the last 2 to 3
 years of progress in reducing infant mortality within a single year."
 
-\

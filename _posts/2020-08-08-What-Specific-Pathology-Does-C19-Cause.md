@@ -5,13 +5,8 @@ description: What specific pathology does C19 cause?
 image: 
 tags: COVID-19
 comments: true
+link: https://www.medicinenet.com/script/main/art.asp?articlekey=7105
 ---
-
-[What specific pathology does C19 cause?](https://www.google.com/url?q=https%3A%2F%2Fwww.medicinenet.com%2Fscript%2Fmain%2Fart.asp%3Farticlekey%3D7105&sa=D&sntz=1&usg=AFQjCNFqGni-Ex8zobB-0WSaAOBMv6GNnQ) {#h.q3p78573ucmo .zfr3Q .JYVBee dir="ltr" style="text-align: center;"}
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![](https://lh5.googleusercontent.com/62jtoQ7ux0gMxol83AJH4sES3PpJjyzVHKhaO-bcE2LwTmjrcByPCSqOP0oO0IEJTf-nZEsZ4EB-dsdeKu7aAvesH9ECl7qQXPGOZsHhxrT4UEhM9vo=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
 Here’s the fundamental question that no one seems to have asked; what is
 the mechanism of action whereby C19 attacks the body and kills people?
 
@@ -33,4 +28,3 @@ How does this pathogen cause pathology?
 Koch’s postulates have not even been systematically evaluated on C19 and
 yet we slammed everyone into lockdowns?
 
-\

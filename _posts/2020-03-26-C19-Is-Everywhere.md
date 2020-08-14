@@ -1,17 +1,12 @@
 ---
 layout: post
 title: C19 Is Everywhere
-description: 88% of C19-Positive Pregnant Women are Asymptomatic!
+description: j
 image: 
 tags: COVID-19
 comments: true
+link: https://www.nejm.org/doi/full/10.1056/NEJMc2009316
 ---
-
-[88% of C19-Positive Pregnant Women are Asymptomatic!](https://www.google.com/url?q=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMc2009316&sa=D&sntz=1&usg=AFQjCNGt7ykusw0X3p4Ekp1vXJDktZxFMQ) 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![](https://lh6.googleusercontent.com/Sh6_PHnqcfsTDKETXdIhqhDrCVhZp-IrcDPFyp55ikylURC2dF-KemXLET-N26T3U80s9Qq-s_6FBc-RIBpoBXegGAKznTc2ohkoB-1SBL2o3I71fw=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
 Between March 22 and April 4, 2020, a total of 215 pregnant women
 delivered infants at the New York–Presbyterian Allen Hospital and
 Columbia University Irving Medical Center . All the women were screened

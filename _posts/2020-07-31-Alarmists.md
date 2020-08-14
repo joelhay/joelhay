@@ -4,11 +4,9 @@ title: People are testing positive without even completing a test!
 description: Alarmists
 image: 
 tags: COVID-19
+link: https://www.mysuncoast.com/2020/07/19/concerns-arise-some-receive-positive-covid-results-never-got-tested/
 ---
-
-[People are testing positive without even completing a test!](https://www.mysuncoast.com/2020/07/19/concerns-arise-some-receive-positive-covid-results-never-got-tested/)
-
-![Alarmists](https://lh4.googleusercontent.com/YAnbM56-GFJaH6ctlmNZyJfVw1sSk9RcM0UxacRcJUMjgDZyRAzo2e967GUw_6XGLljV5vhH=w1280)
+![Alarmists](https://lh3.googleusercontent.com/HO5aYr4pMPyh4Ad6IfSUvNI592LZqoK_sji7YyzqbUUfRfG68ZasDtoq4RBvs02ESqjQmU09=w1280)
 
 How do the alarmist idiots deal with a total collapse of the C19 testing data systems. Many people are testing positive without even completing a test!!!!!
 

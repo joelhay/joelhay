@@ -7,10 +7,8 @@ tags: COVID-19
 comments: true
 ---
 
-[C](https://www.google.com/url?q=https%3A%2F%2Fwww.seattletimes.com%2Fseattle-news%2Fhealth%2Fwashington-states-actual-coronavirus-death-toll-may-be-higher-than-current-tallies-health-officials-say%2F&sa=D&sntz=1&usg=AFQjCNFIvSqY8FbeCS56VTfNWp0DnY1PvA)[o](https://www.google.com/url?q=https%3A%2F%2Fwww.seattletimes.com%2Fseattle-news%2Fhealth%2Fwashington-states-actual-coronavirus-death-toll-may-be-higher-than-current-tallies-health-officials-say%2F&sa=D&sntz=1&usg=AFQjCNFIvSqY8FbeCS56VTfNWp0DnY1PvA)[vid](https://www.google.com/url?q=https%3A%2F%2Fwww.seattletimes.com%2Fseattle-news%2Fhealth%2Fwashington-states-actual-coronavirus-death-toll-may-be-higher-than-current-tallies-health-officials-say%2F&sa=D&sntz=1&usg=AFQjCNFIvSqY8FbeCS56VTfNWp0DnY1PvA)[death toll higher than current tallies](https://www.google.com/url?q=https%3A%2F%2Fwww.seattletimes.com%2Fseattle-news%2Fhealth%2Fwashington-states-actual-coronavirus-death-toll-may-be-higher-than-current-tallies-health-officials-say%2F&sa=D&sntz=1&usg=AFQjCNFIvSqY8FbeCS56VTfNWp0DnY1PvA) {#h.mszjvmjloutz .zfr3Q .JYVBee dir="ltr" style="margin-left: 0; margin-right: 0; padding-left: 0; text-align: left; text-indent: 0;"}
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![](https://lh5.googleusercontent.com/S1FzdnZ6IDAPCZC0HSE9_go9EnU6tlQyFspTZNB9ff4jzIcf1LsFCM4JkF8AC5_3SBP7MoNkM_5fPFqn7WXsw7fTBu5ohXZO_elJvAqgzfzg19HbVTo=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
+[Covid Death Toll Higher Than Current Tallies](https://www.seattletimes.com/seattle-news/health/washington-states-actual-coronavirus-death-toll-may-be-higher-than-current-tallies-health-officials-say/)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 And as I've been saying for months, C19 was all over the globe in 2019.
 This is yet another set of data proving that it was in the US
@@ -18,5 +16,3 @@ This is yet another set of data proving that it was in the US
 times as many "C19" deaths before it was even recognized in WA than when
 they started keeping official reports. The lockdowns begun in March were
 utterly useless.
-
-![](https://lh4.googleusercontent.com/DsqRxbhQSVSVWa9Gs59P-MqYTNU_YW5OBR0LikOgYLVJkIRu3V-XQIOXXDV12F9Mv_ehuoj_4aTJvUmw7tXrQ7XkwZP5r6G1QmBGrIneDluGhvXPU3lq=w1280)

@@ -5,17 +5,11 @@ description: The Bearer of Good Coronavirus News
 image: 
 tags: COVID-19
 comments: true
+link: https://www.wsj.com/articles/the-bearer-of-good-coronavirus-news-11587746176?mod=opinion_lead_pos5
 ---
-
-### [The Bearer of Good Coronavirus News](https://www.google.com/url?q=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-bearer-of-good-coronavirus-news-11587746176%3Fmod%3Dopinion_lead_pos5&sa=D&sntz=1&usg=AFQjCNHLPLtOLBb17PhbeYcSluGigQRxnA) {#h.cv7p8gfj68r5 .zfr3Q .OmQG5e dir="ltr" style="text-align: center;"}
-
-[![](https://lh6.googleusercontent.com/4PBkwa0Cmx6ps0-OLOvLUrDWPZhdMXfRzVAcAivhTmQmfBnj7B3sukS1JpSR3KkDfhvQAblIC0Pw6H4jLONp4eqKQnc5nZ7ZdZ76b44GLfxilk41ens=w1280)](https://www.google.com/url?q=https%3A%2F%2Fredcap.med.usc.edu%2Fsurveys%2F%3Fs%3DJ7KEL4YTKT&sa=D&sntz=1&usg=AFQjCNGgmJPVlIxKzdq9Pd16K5HC0kstRQ)
-
 Good to be in Prof. Ioannidis company on this.
 
 It was clear in February that C19 isn't worse than typical flu.
-
-\
 
 Consider John Ioannidis, a professor at Stanford’s School of Medicine.
 He juggles appointments in statistics, biomedical data, prevention
@@ -36,4 +30,4 @@ upper bound at 0.05% to 1%—comparable to that of seasonal flu.
 potentially tremendous social and financial consequences may be totally
 irrational.
 
-![](https://lh3.googleusercontent.com/5GT74dXQNiblTRi0PswqyPdf4tHWHft_-IniAIRZ5RGJttjPfYF3dlQKTQK5BVDuPtVDvyqZE69LE40QCTum0hEoXHmbYnIPeG2VaqHd40gS5YHDyVY=w1280)
+![](https://lh5.googleusercontent.com/S3YAEOKbxiAq_sTpcS4bjQtxG596dQ3O7pPoTLsJw0DkmTMjeHYzamu3H_TKAsUCgv2q9b6lOAHMGRn130atGHP0s6MeBV24NGdhp_o8FJUNImg0XNE=w1280)
