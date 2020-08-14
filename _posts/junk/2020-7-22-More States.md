@@ -4,7 +4,7 @@ title: More States to Look At
 description: More States to Look At
 image: 
 tags: COVID-19
-comments: true
+published: false
 ---
 
 How about New Jersey? 
