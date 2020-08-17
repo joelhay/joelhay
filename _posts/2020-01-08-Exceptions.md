@@ -13,4 +13,4 @@ We're seeing a theme here. Public officials and "experts" telling us to stay in 
 
 Now some of those experts are broadcasting a new message: It’s time to get out of the house and join the mass protests against racism.
 
-![](https://lh3.googleusercontent.com/ZwIGrq2SVnag_Mznh18Qv1bQk8qrY3wHQ-T5gQcYUt4TB7WyoXKMb2iwxkwv4jQm3qtiqEP_ELgX4lapmTZRfWgyx4Ah1wo5PpZfaRPGWuiPHnzp90Qw=w1280)
+![](/../../assets/images/post-images/exceptions/39310345d8b790e1aaa992432641c445.jpg)

@@ -11,4 +11,4 @@ has had its kids in school all along, with zero deaths among boys and
 girls under age 20! And they are fully exposed and able to neutralize
 C19 naturally and completely! No vaccines or meds needed!
 
-![](https://lh4.googleusercontent.com/KJ1EmZtJwymxaREw_88waA7VZhIrvFqCMPw53oVXoppZ5wP3nY8Pjr2xs7iGrNPWktkTSRiAADAZAQXCFdaOnsBdiMNoHa1YRQySYe0r22rxogGotYc=w1280)
+![](/../../assets/images/post-images/SwedishBoys/8d7621efe995dadaa5e801e75b7f1f43.jpg)

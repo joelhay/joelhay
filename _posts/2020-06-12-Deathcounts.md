@@ -21,4 +21,4 @@ shut.
 Let the young and healthy practice herd immunity! It works in Sweden and
 even in US prisons.
 
-![](https://lh3.googleusercontent.com/znucA35E-h_xPLMKP4VKOQvkf7Jvbhk-p05aRqI2yoQNknKsLxEegZOY4v1rnbJg4KX4k_8rn9FPNFkEdjPHA8kRNx7eLImcTWZ-TxbwW3N3jan9fCBA=w1280)
+![](/../../assets/images/post-images/DeathCounts/bcc8429062ed79341d9ee8547050cfd8.jpg)

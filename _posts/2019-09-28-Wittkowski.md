@@ -11,4 +11,4 @@ Dr. Knut Wittkowski: lockdowns came too way too late as the virus had
 already made its way into the populations, and more likely could exact a
 massive cost In other words: the lockdowns were useless!
 
-![](https://lh3.googleusercontent.com/gWZGialSVQVR_iXieiy9EZOTiYgicFclelkAehZEoPZ2q5IbSEwwm-A2YNePeJ8rkzkRFrqhh3oCeeyw23tuMZh7hjtxVrYFcewBQqXWhsgJkZOg-758=w1280)
+![](/../../assets/images/post-images/Wittkowski/dbebd6e08f542612259f87c66eb07c2d.jpg)

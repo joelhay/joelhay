@@ -20,4 +20,4 @@ He said 155 women without symptoms were tested after 39 became ill with the dise
 
 [(more)](https://apnews.com/f31d0a19272193a0f461eb96e5c3d23d)
 
-![](https://lh5.googleusercontent.com/8wDt8h8OSvJUtf8egJdcuRkeSmThXq7a44_NZUfiKhMb1G_Bn_E8mDQXLgTumYTllbNxKAHsPIlXwjoPIOk3ySOdYsDa6h0Ffr4wNYDQ67j5598Cl_0=w1280)
+![](/../../assets/images/post-images/louisianaprison/d334059f783f90d89259126d8cd23d6f.jpg)

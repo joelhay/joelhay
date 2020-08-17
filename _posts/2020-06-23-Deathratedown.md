@@ -7,4 +7,4 @@ tags: COVID-19
 comments: true
 link: https://issuesinsights.com/2020/04/28/if-coronavirus-threats-so-great-whys-u-s-overall-death-rate-down/
 ---
-![](https://lh5.googleusercontent.com/ay_Re3VTkAxFU-RXrn5D8oZbeAQqtXBSrtAMxmeKnHfi7nzommdXg5ItZ_ZgApHIg2zhYWB1e0MWKkPeR6QAEjMmNbvvtUIVGwUKfo0SLcWvB7TeW7g=w1280)
+![](/../../assets/images/post-images/deathratedown/8a8b0efe6e880b123ba68011d9304735.jpg)

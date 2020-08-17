@@ -30,4 +30,5 @@ upper bound at 0.05% to 1%—comparable to that of seasonal flu.
 potentially tremendous social and financial consequences may be totally
 irrational.
 
-![](https://lh5.googleusercontent.com/S3YAEOKbxiAq_sTpcS4bjQtxG596dQ3O7pPoTLsJw0DkmTMjeHYzamu3H_TKAsUCgv2q9b6lOAHMGRn130atGHP0s6MeBV24NGdhp_o8FJUNImg0XNE=w1280)
+![](/../../assets/images/post-images/IoannidisWSJ/cc30849061c90cf585efe10cd6f1e6f1.jpg)
+

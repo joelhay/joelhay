@@ -12,4 +12,4 @@ was global months and months before the idiotic lockdowns!
 
 I've been saying this from Day 1!
 
-![](https://lh3.googleusercontent.com/Q94oX_Ce7gWH9insvURUXXVnw3Da9CyOjk_FGa3L82Fb3rQMwsQoHHCqnREQXSnCxwWYovSKA2mCuIWV9RyVu_HBfB_sQ4TzNaYWBw_HP_tjWXtkKTo=w1280)
+![](/../../assets/images/post-images/smokinggun/6a0b236c5c7461150eca358e39a0c24b.jpg)

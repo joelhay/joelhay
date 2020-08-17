@@ -8,4 +8,4 @@ comments: true
 ---
 Constitution? 1st Amendment? Since when did C19 trump "NO LAW shall restrict the right of the people to peacefully assemble."? Or the right to free expression?
 
-![](https://lh4.googleusercontent.com/X0c8AmNTd_LRSkU6vQuhyRdzPmVROgTLKnCU7vn75Rlvfll7MNzMjp3z78b0DHziEY4CDk8BCo-jYCW1ahuf8lT_TJzqm8UxuTbEP_DCeNPi9zPJ0ego=w1280)
+![](/../../assets/images/post-images/constitution/3bdc439f0f8a02816b67f06fe73a6add.jpg)

@@ -24,4 +24,4 @@ And Bangladesh's C19 reported death rate is 100 times lower than the US,
 and they've reopened! Social isolation in Bangladesh is a silly fiction
 anyway!
 
-![](https://lh5.googleusercontent.com/MrRd3Ov0gsXGGquDse1YvGO2rUi5KTJo1a7YJ3b47QoYa1IyKBCZAFEyvfku8cyzzD7E8W7nEWa6Eace_cyC02pX-P4_p4g_a0woyLPg2wwJMwmKWNVV=w1280)
+![](/../../assets/images/post-images/morederangement/d79423ce2313a677ed95a31917bf0c75.jpg)

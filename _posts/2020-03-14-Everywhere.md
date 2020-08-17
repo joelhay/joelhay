@@ -15,4 +15,4 @@ global cases in November. This was everywhere in days!
 
 As I've always said on [joelhay.com](joelhay.com), the lockdowns, if they even could have any effect, were utterly useless and silly when implemented in March 2020.
 
-![](https://lh4.googleusercontent.com/W5fXqGOnEOTpR84dV1qtEFB33tTa_-O1iivJmOldKVIp6JVaEzMFNF_ZP80BkRLbHhoyj3c-rxaU1np9Tb7FllZBGA9ZsmoWkyZHtq1ldwGh_2vGE9U8=w1280)
+![](/../../assets/images/post-images/everywhere/7dab7cc462188c7ec7f8d98b27bace41.jpg)

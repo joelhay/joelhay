@@ -10,4 +10,5 @@ Here is more detailed pediatric C19 data. Only 4 deaths up to age 21. Of
 the 1,200 hospitalized cases, every single one of them had at least one
 comorbidity.
 
-![](https://lh6.googleusercontent.com/BWL2xMzX3kWRt7gekZyCyzYfaYAhcIvp5hlWmIuJDxZ_JfJbc4LjGfNEvn1Od96vgAzE4QIsx1gfouzb179GLFT5GQkokwlvykFduxHj0v4Fx4iOUn6C=w1280)
+![](/../../assets/images/post-images/pediatric/25a77c114fd284dd6c3235dd49848a90.jpg)
+

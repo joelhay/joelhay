@@ -14,4 +14,4 @@ So if you don't want to get sick in the long run, live fit and you also won't ge
 
 BY THE WAY, you have to listen to Attia Podcast \#85, it is mind-blowing!
 
-![](https://lh4.googleusercontent.com/mRmlzHllo-CSf91fpwmn5RlJaYTpKRXOxmye3CXZEhTPLaT71Tb5SpohPZktrRoYPzwX2u35S1j3JaNRYp6NgWY7pnYJmbsfNVOfzuhnKZyD-LN53aEt=w1280)
+![](/../../assets/images/post-images/immunosenescence/e1cfcae50b5dad4793b4473f09ccb2ba.jpg)

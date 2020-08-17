@@ -11,4 +11,4 @@ Why do our children and their families have to suffer? That is the
 biggest stupidity of the lockdown. No peds deaths in Scandinavia! Sweden
 NEVER closed their schools. Denmark reopening with no problems!
 
-![](https://lh3.googleusercontent.com/iBNB15c4z0XCsgeFjehk9YoKJO33nwbtTjqU_9IRKrWd7fnXrzvMPa8TlwQTZadzmo-G92QCn3P7yM8bo8wKiTX8-wtgQcamc0Ck4MWWgKET01M6XA=w1280)
+![](/../../assets/images/post-images/stupidity/a196c2f5d6254b8f008012e55a2d28ca.jpg)

@@ -6,7 +6,8 @@ image:
 tags: COVID-19
 link: https://www.mysuncoast.com/2020/07/19/concerns-arise-some-receive-positive-covid-results-never-got-tested/
 ---
-![Alarmists](https://lh3.googleusercontent.com/HO5aYr4pMPyh4Ad6IfSUvNI592LZqoK_sji7YyzqbUUfRfG68ZasDtoq4RBvs02ESqjQmU09=w1280)
+![](/../../assets/images/post-images/alarmists/5a2195228dbe9defb4912fa528b5a2ca.jpg)
+
 
 How do the alarmist idiots deal with a total collapse of the C19 testing data systems. Many people are testing positive without even completing a test!!!!!
 

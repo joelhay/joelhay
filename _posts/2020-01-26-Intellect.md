@@ -13,4 +13,4 @@ While telling us that those in group living for intellectual disabilities have a
 
 If C19 kills relatively more of one group of densely packed institutional residents because they can't social distance, why doesn't it kill all of them? No one is more densely packed than prisoners!
 
-![](https://lh6.googleusercontent.com/TxWyoEQgacSq5posmHXCsWIxTVfcaVRHouasCmQDomI6cvD5qow_5DJq3A91JkhUq0uRRKeDN4lbz3vhsJ3ptCoZKBKBFpNt5xK72cs51LSSIrYhq9k=w1280)
+![](/../../assets/images/post-images/intellect/1e3f15cbdfd3af0aae9007344fd96b93.jpg)

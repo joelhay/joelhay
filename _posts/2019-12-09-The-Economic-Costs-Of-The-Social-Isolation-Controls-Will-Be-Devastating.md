@@ -13,4 +13,4 @@ They have cratered the Norwegian economy by 10% and yet Norway has a 20%
 higher case rate than Sweden. \#c19 \#sweden \#norway \#netherlands
 \#economic \#costs
 
-![](https://lh5.googleusercontent.com/K_PFM6IPXcSvNE4BK9rqArUtNOu9jk46UP15LvOmKdS4HVgWR5SZAAdwXCOYne7VzC8xj5TYPH_ivf5jsiNXyjIDl5MzwTpytaRaVe8C4-k5PxwEGDU6=w1280)
+![](/../../assets/images/post-images/The economic costs of the Social Isolation/ea708e3dc9861548b126f0eef071c1c4.jpg)

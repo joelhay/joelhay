@@ -13,4 +13,4 @@ But the C19 lockdown alarmists cannot explain why cases keep going up
 (due to reporting with the faulty PCR tests) but US death rates keep
 going down!
 
-![](https://lh6.googleusercontent.com/B6RyMLcIh71Y_iMEBo6ZH285Lur4JLnf-Pg4mIgnftSTpF0zqO9tFG5sRFiXUuaZM6axJIWNKgi78LQh3ZHvkBsDWc_tcNiXFeOyEGAakHkIVFeETwY=w1280)
+![](/../../assets/images/post-images/deathsdown/5ac3b3be0f3d05ed0bff0c988194a6bd.jpg)

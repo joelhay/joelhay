@@ -28,4 +28,4 @@ then lockdowns are a cruel joke!
 Vietnamese love to eat rats! They lick and rub them all over their faces
 and mouths! ZERO DEATHS!
 
-![](https://lh4.googleusercontent.com/AnDl8Of9HyMuL7ypd64bOl5brbbuZ6vOhQb-UNEmXlHvW931jreXl-3YXz1jzZB0WvxSyrt-a4A6SDCNsXgkF-sKp38rmD0c7yrUBvf6GkwPsRRckrCf=w1280)
+![](/../../assets/images/post-images/reallythinks/aa3d11703fd0c27ae19fd6c7da9a6a06.jpg)

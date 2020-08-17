@@ -16,4 +16,4 @@ mantra, which is destroying people! Take a look as this video of a 4
 kilometer line in South Africa for food - at the end of line, they get 1
 bag. Tragic!
 
-![](https://lh6.googleusercontent.com/TZ_gaD-FYxnMQdX5jF9QX_R-gINr3vvjtOUJwm_yDqjn0CZHEmuGFVs2AcJNs1zh8wSTRKu0YHlkX9A0nfrIWakf0asNyzqMj1oyaR1Gp7KcgcAFg98=w1280)
+![](/../../assets/images/post-images/SouthAfrica/362a8114ef77fde2452f62d9f52eae9e.jpg)

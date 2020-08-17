@@ -15,4 +15,4 @@ and I showed in the last post----SWEDEN IS OVER C19
 
 But you are not because of your idiot politicians.
 
-![](https://lh5.googleusercontent.com/wdtu_cTUAYsN55-FHdSYQC_SE_WNzF3H_WszmpWXGBd2e24ZP06yb5HaRxRx2jbYxHnMI-uKk2Z-TBgdGchYO7Sxk5P4jSA6AG_mjMlGLJIo7-KAHw=w1280)
+![](/../../assets/images/post-images/swedenherd/a9597933732e0f18efbe437102c7c6d5.jpg)

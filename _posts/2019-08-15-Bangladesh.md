@@ -21,4 +21,4 @@ lockdowns like Bangladesh and India that millions are dying from C19 --
 and they never will. Lockdowns were always meaningless when you can
 reach out your window and touch your neighbors!
 
-![](https://lh3.googleusercontent.com/Qg8e3yePJsMWA5XwHK5ArnhTevKFU0s8xZv9GcUQi1RjHaNxZqaK_q5rQlrMw1TbS2Nq0fw=w1280)
+![](/../../assets/images/post-images/bangladesh/a06af09f636980fb24ec6d57010b64ef.jpg)

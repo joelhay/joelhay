@@ -13,4 +13,4 @@ Where's the evidence that masks work? Particularly after 3 weeks when they've be
 
 Show me any scientific evidence that masks work for C19 in the real world.
 
-![](https://lh5.googleusercontent.com/-JcaYKTY1QurpzS7sY8-JOoWwmGlN96mlA-uY7BVlmwnusY0wZ6yw8gpLxI8QjZ7WpySZIzZlmIxzTIYuVQBS5NHDvb8jqwQ5U5Wjn1WASKI1w-Tjl4=w1280)
+![](/../../assets/images/post-images/mindcontrol/88b7702e3131a184e33ce54e013cf0d3.jpg)
