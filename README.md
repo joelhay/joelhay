@@ -15,10 +15,10 @@ link:
 ```
 - Title and description are self-explanatory. 
 - Using the image attribute is tricky and I don't recommend it, since I think there should be more flexibility. Leave it blank for now and to add images anywhere you want, simply use this: ```![alt text](url)```
-- A little note here: Please add all pictures to assets/images/post-images. I usually create a new folder for each post in assets/images/post-images. Thus, if we create a USC Covid19 post, we'd create a folder called "USC Covid19" within assets/images/post-images.Thus, the url for images would now be in this format: 
+- A little note here: Please add all pictures to assets/images/post-images. I usually create a new folder for each post in assets/images/post-images. Thus, if we create a USC Covid19 post, we'd create a folder called "USC Covid19" within assets/images/post-images. Thus, the url for images would now be in this format: 
 ```/../../assets/images/post-images/post-folder-name-of-choice/filename```
 
-Ex. 
+- Ex. 
 ```![](/../../assets/images/post-images/briggs1/46b2080a90e02acb4c64b1c105c6f9e0.jpg)```
 This is an example of an article named briggs1. A folder briggs1 was created with the image 46b2080a90e02acb4c64b1c105c6f9e0.jpg 
 
