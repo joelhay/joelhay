@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Click For Important Daily Graphs
+Need to Decide Where to Redirect Here
