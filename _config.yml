@@ -1,17 +1,17 @@
 # site settings
 title: Joel Hay
 subtitle: PhD
-email: jhay@usc.edu
+email: joel.hay@gmail.com
 description: Welcome to joelhay.com. I am a PhD Health Economist whose mission is to generate and share reliable and transparent evidence on the impact of the COVID-19 epidemic, and to critically examine the institutional policies made in response to the epidemic around the globe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 635 Downey Way
-city: Los Angeles
-state: CA
-zip_code: 90089-3333
+street_address: 813 Jeffrey Court
+city: Incline Village
+state: NV
+zip_code: 89451
 country: United States of America
-phone: (213) 821-8160
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

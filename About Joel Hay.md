@@ -2,7 +2,7 @@
 layout: post
 title: About Joel Hay
 description: About Joel Hay
-image: assets/images/pic11.jpg
+image: assets/images/joelhay1.jpg
 nav-menu: true
 ---
 
