@@ -2,7 +2,7 @@
 layout: post
 title: FAQ
 description: Questions?
-image: assets/images/pic11.jpg
+image: assets/images/quilt.jpg
 nav-menu: true
 ---
 <details>

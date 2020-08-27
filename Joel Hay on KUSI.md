@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Joel Hay at Freedom Fest
+title: Joel Hay on KUSI 8/5/20
 nav-menu: false
 show_tile: false
 ---
 
-### Joel Hay was on a panel at FreedomFest.com. Unfortunately the conference was closed down by the governor of Nevada, but some of the panelists were able to attend a video panel.  
+### Joel Hay on KUSI 8/5/20 
 
-<iframe width="562" height="382" src="https://www.youtube.com/embed/2cO2ovHRk5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="562" height="382" src="https://youtu.be/VpZ3JxbKAVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
