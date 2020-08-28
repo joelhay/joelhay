@@ -1,7 +1,7 @@
 ---
-title: Tweets
+title: Blog Entries
 layout: landing
-description: Joel's Tweets
+description: Joel Hay's Posts
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
