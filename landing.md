@@ -2,8 +2,9 @@
 title: Daily Graphs
 layout: landing
 description: COVID-19 Daily Graphs
-image: assets/images/pic07.jpg
-nav-menu: true
+image: 
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
