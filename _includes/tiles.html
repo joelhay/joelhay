@@ -10,8 +10,13 @@
       <img src="{{ tile.image }}" alt="" />
     </span>
     <header class="major">
-      <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
-      <p>{{ tile.description }}</p>
+      {% if tile.redirect %}
+        <h3><a href="{{ tile.redirect }}" class="link">{{ tile.title }}</a></h3>
+        <p>{{ tile.description }}</p>
+      {% else %}
+        <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
+        <p>{{ tile.description }}</p>
+      {% endif %}
     </header>
   </article>
   {% endfor %}
