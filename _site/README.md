@@ -30,4 +30,8 @@ This is an example of an article named briggs1. A folder briggs1 was created wit
 - Added TAGS functionality. Test buttons now appear on "All Pages." I added some code in main.scss and main.js to implement it.
 - To change banner height, go to _header.scss in _sass/layout and alter the .wrapper-header margin-top attribute. Next, go to assets/css/main.scss. Change the height attribute of #banner-content. 
 - To make post title clickable (directs to an article), simply add a 'link:' attribute to the front matter
+<<<<<<< HEAD
 - To change the banner, go to _layouts/home.html. At the very top of the body element will be the banner. Simply change the <p> and <a> elements to alter text and link. 
+=======
+- To change the banner, go to _layouts/home.html. At the very top of the body element will be the banner. Simply change the ```<p>``` and ```<a>``` elements to alter text and link. 
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b

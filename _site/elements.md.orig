@@ -61,7 +61,15 @@
 		    
 		
 		    
+<<<<<<< HEAD
 		        <li><a href="http://0.0.0.0:4000//">Home</a></li>
+=======
+		
+		    
+		
+		    
+		        <li><a href="http://localhost:4000//">Home</a></li>
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b
 	    	
 		
 		    
@@ -82,17 +90,27 @@
 		    
 		
 		    
+<<<<<<< HEAD
 		        <li><a href="http://0.0.0.0:4000/Media%20Clips.html">Media Clips</a></li>
 		    
 		
 		    
 		        <li><a href="http://0.0.0.0:4000/Tweets.html">Tweets</a></li>
+=======
+		
+		    
+		        <li><a href="http://localhost:4000/Media%20Clips.html">Media Clips</a></li>
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b
 		    
 		
 		    
-		
+		        <li><a href="http://localhost:4000/Tweets.html">Blog Entries</a></li>
 		    
+<<<<<<< HEAD
 		        <li><a href="http://0.0.0.0:4000/landing.html">Daily Graphs</a></li>
+=======
+		
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b
 		    
 		
 	</ul>

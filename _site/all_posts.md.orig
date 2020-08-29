@@ -61,7 +61,15 @@
 		    
 		
 		    
+<<<<<<< HEAD
 		        <li><a href="http://0.0.0.0:4000//">Home</a></li>
+=======
+		
+		    
+		
+		    
+		        <li><a href="http://localhost:4000//">Home</a></li>
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b
 	    	
 		
 		    
@@ -82,17 +90,27 @@
 		    
 		
 		    
+<<<<<<< HEAD
 		        <li><a href="http://0.0.0.0:4000/Media%20Clips.html">Media Clips</a></li>
 		    
 		
 		    
 		        <li><a href="http://0.0.0.0:4000/Tweets.html">Tweets</a></li>
+=======
+		
+		    
+		        <li><a href="http://localhost:4000/Media%20Clips.html">Media Clips</a></li>
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b
 		    
 		
 		    
-		
+		        <li><a href="http://localhost:4000/Tweets.html">Blog Entries</a></li>
 		    
+<<<<<<< HEAD
 		        <li><a href="http://0.0.0.0:4000/landing.html">Daily Graphs</a></li>
+=======
+		
+>>>>>>> 8b09b0771a29b1a2e94067be1efb9b0c0b50fc7b
 		    
 		
 	</ul>
@@ -1801,6 +1819,23 @@ frail elderly with immune senescence.
 in NYC, Italy and Spain. Ventilators are not the right medicine for
 these patients. Yet again, MD ignorance is killing people everywhere.
 
+<br>
+                <a href="/2019/08/26/Ventilators-Are-Not-The-Right-Medicine-For-These-Patients.html">Read more...</a><br><br>
+                </header>
+              </div>
+            
+              <div class="postobjects"> 
+                <header class="major">
+                <li><span>26 Aug 2019</span> &raquo; 
+                  <h3 style="display:inline"><a href="/2019/08/26/Ventilators-Are-Not-The-Right-Medicine-For-These-Patients.html">Ventilators Are Not the Right Medicine For These Patients</a></h3>
+                  <span class="findtags">Tags:&nbsp;COVID-19&nbsp;</span>
+                </li>
+                Here is likely a main cause of the excessive deaths associated with C19
+in NYC, Italy and Spain. Ventilators are not the right medicine for
+these patients. Yet again, MD ignorance is killing people everywhere.
+
+git log
+git reset
 <br>
                 <a href="/2019/08/26/Ventilators-Are-Not-The-Right-Medicine-For-These-Patients.html">Read more...</a><br><br>
                 </header>
