@@ -126,4 +126,18 @@
 #twitter-center{
 	margin: auto;
 }
-
+.upper-buttons > .red{
+	background-color: #ff0000;
+	width: 70%;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+.upper-buttons{
+	text-align: center;
+}
+@media (max-width: 621px) {
+	.red > div{
+		font-size: 1.7vw;
+	}
+	
+}
