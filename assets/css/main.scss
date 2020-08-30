@@ -127,16 +127,38 @@
 	margin: auto;
 }
 .upper-buttons > .red{
-	background-color: #ff0000;
+	background-color:#B22222;
+	color: #f7cb4d;
+	width: 70%;
+	margin-top: 10px;
+	font-size: 150%;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.key-points > .red{
+	background-color: #B22222;
+	color: #f7cb4d;
 	width: 70%;
 	margin-top: 10px;
 	text-decoration: underline;
+	font-weight: bold;
+}
+.key-points{
+	text-align: center;
 }
 .upper-buttons{
 	text-align: center;
 }
-@media (max-width: 621px) {
+@media (max-width: 1071px) {
 	.red > div{
+		font-size: 3vw;
+		letter-spacing: 1px;
+		
+	}
+	.upper-buttons > .red{
+		padding: 0;
+	}
+	.key-points > .red{
 		font-size: 1.7vw;
 	}
 	
