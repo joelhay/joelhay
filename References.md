@@ -2,7 +2,7 @@
 layout: post
 title: References
 description: Papers and References
-image: 
+image: assets/images/old-books-1534109-1599x1104.jpg
 nav-menu: true
 ---
 

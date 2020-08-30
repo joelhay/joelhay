@@ -2,7 +2,7 @@
 layout: post
 title: Media Clips
 description: Media Clips
-image: 
+image: assets/images/radio-studio-1315232-1600x1200.jpg
 nav-menu: true
 ---
 

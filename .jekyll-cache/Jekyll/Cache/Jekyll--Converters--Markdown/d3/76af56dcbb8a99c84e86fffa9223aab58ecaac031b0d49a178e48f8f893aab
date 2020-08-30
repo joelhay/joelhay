@@ -1,4 +1,4 @@
-I"÷<!-- Main -->
+I"È<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -9,6 +9,7 @@
 		</header>
 		<div class="key-points">
                 <a href="https://episphere.github.io/mortalitytracker/#cause=allcause&amp;state=All%20States" class="button special red">More Cases Don't Equal Excess Deaths</a>
+				
         </div>
 	</div>
 </section>
@@ -17,7 +18,7 @@
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="/assets/images/operation-theatre-in-hospital-1524337.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -35,7 +36,7 @@
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="/assets/images/radio-studio-1315232-1600x1200.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +53,7 @@
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="/assets/images/tonik-hAZ3TNzQP6w-unsplash.jpg" alt="" data-position="25% 25%" style="height: 500px;" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -62,29 +63,31 @@
 				<p>Maintain infection precaution measures for high-risk individuals (e.g. nursing home residents, immunocompromised, elderly with comorbidities), including appropriate PPE, handwashing, and avoidance of large groups.
                 Reopen all schools, colleges and universities as quickly as possible.  As of May 1, 2020, only 9 children under the age of 15 and only 50 under the age of 25 were reported to have died in the US.
                 Allow any and all businesses to open completely if they are willing to do so and decide what social distancing measures they would like to implement.</p>
-                <p style="text-position: center;">Relax and use common sense.  Panic doesnâ€™t help</p>
-				<ul class="actions">
+                <p style="text-align: center;">Relax and use common sense.  Panic doesnâ€™t help</p>
+				<!--
+                <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
+                -->
 			</div>
 		</div>
 	</section>
 
 </section>
 
-<!-- Three 
+<!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Fourth Title</h2>
+			<h2>COVID-19 Daily Graphs</h2>
 		</header>
-		<p>Placeholder</p>
+		<p>Brought to You By The COVID-19 Econometric Modeling Team</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://joelhay.github.io/" class="button">Link to Graph</a></li>
 		</ul>
 	</div>
 </section>
--->
+
 </div>
 
 :ET

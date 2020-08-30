@@ -2,7 +2,7 @@
 title: Blog Entries
 layout: landing
 description: Joel Hay's Posts
-image: assets/images/pic07.jpg
+image: assets/images/keyboard-1-1195703-1600x1200.jpg
 nav-menu: true
 ---
 

@@ -2,7 +2,7 @@
 layout: landing
 title: Key Points
 description: Key Points + COVID-19 Daily Graphs
-image: 
+image: assets/images/Picture1.jpg
 nav-menu: true
 ---
 <!-- Main -->
@@ -16,6 +16,7 @@ nav-menu: true
 		</header>
 		<div class="key-points">
                 <a href="https://episphere.github.io/mortalitytracker/#cause=allcause&state=All%20States" class="button special red">More Cases Don't Equal Excess Deaths</a>
+				
         </div>
 	</div>
 </section>
@@ -89,7 +90,7 @@ nav-menu: true
 		</header>
 		<p>Brought to You By The COVID-19 Econometric Modeling Team</p>
 		<ul class="actions">
-			<li><a href="https://joelhay.github.io/" class="button next">Get Started</a></li>
+			<li><a href="https://joelhay.github.io/" class="button">Link to Graph</a></li>
 		</ul>
 	</div>
 </section>
