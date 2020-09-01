@@ -102,6 +102,21 @@
     text-align: center;  
     margin: auto;
 }
+@media (max-width: 450px) {
+	#banner-content { 
+		height: 110px;
+	}
+	#banner-content > a{
+		display: block;
+		margin: 0;
+		
+	}
+	#banner-content > a > p{
+		height: inherit;
+		margin: auto;
+	}
+	
+}
 #banner-font{
 	
 	color: rgb(0,0,0);
