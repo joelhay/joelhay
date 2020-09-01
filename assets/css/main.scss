@@ -138,8 +138,9 @@
 .key-points > .red{
 	background-color: #B22222;
 	color: #f7cb4d;
-	width: 70%;
+	width: 80%;
 	margin-top: 10px;
+	font-size: 150%;
 	text-decoration: underline;
 	font-weight: bold;
 }
@@ -159,7 +160,41 @@
 		padding: 0;
 	}
 	.key-points > .red{
-		font-size: 1.7vw;
+		font-size: 3vw;
+		letter-spacing: 1px;
+		padding: 0;
+	}
+	
+}
+
+@media (max-width: 736px) {
+	.red > div{
+		font-size: 4vw;
+		letter-spacing: 1px;
+		
+	}
+	.upper-buttons > .red{
+		padding: 0;
+		float: left;
+		width: 100%;
+	}
+	
+	
+}
+@media (max-width: 415px) {
+	.red > div{
+		font-size: 4vw;
+		letter-spacing: 1px;
+		
+	}
+	.upper-buttons > .red{
+		padding: 0;
+		float: left;
+		width: 100%;
+	}
+	.key-points > .red{
+		width: 100%;
+		font-size: 3.3vw;
 	}
 	
 }
