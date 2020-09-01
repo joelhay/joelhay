@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: false
 ---
 
-Joel W. Hay is professor and founder of the Department of Pharmaceutical Economics and Policy at the University of Southern California. He is a Health Economist at the Harbor UCLA Center for Vaccine Research. Dr. Hay has substantial experience in evaluation of treatments for upper respiratory infections having been a researcher on the USC Behavioral Economics for Adult Respiratory Infections (BEARI) NIH-funded multi-center trial.  He has conducted numerous other federally-funded research projects, including the Antimicrobial Stewardship in Neonatal intensive Care Units Feedback Intervention demonstration project also sponsored by NIH. 
+Robert Hung Joel W. Hay is professor and founder of the Department of Pharmaceutical Economics and Policy at the University of Southern California. He is a Health Economist at the Harbor UCLA Center for Vaccine Research. Dr. Hay has substantial experience in evaluation of treatments for upper respiratory infections having been a researcher on the USC Behavioral Economics for Adult Respiratory Infections (BEARI) NIH-funded multi-center trial.  He has conducted numerous other federally-funded research projects, including the Antimicrobial Stewardship in Neonatal intensive Care Units Feedback Intervention demonstration project also sponsored by NIH. 
 
 He has substantial experience in conducting and analyzing surveys on depression, anxiety and economic burden of disease.
 
