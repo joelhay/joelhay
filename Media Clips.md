@@ -7,6 +7,7 @@ nav-menu: true
 ---
 
 #### *RADIO AND MEDIA APPEARANCES*
+* [Joel Hay on the Patrick Coffin Podcast 9/01/2020](https://www.patrickcoffin.media/lockdown-and-covid19-masks-useless/)
 * [Joel Hay on KUSI 08/05/2020](https://www.youtube.com/watch?v=VpZ3JxbKAVE&feature=youtu.be)
 * [What Are You Afraid Of? - The Mark Larson Show](https://www.iheart.com/podcast/1248-the-mark-larson-show-60332929/episode/what-are-you-afraid-of-68728947/)
 * [Governors Have a Lot of Power - The Mark Larson Show](https://www.iheart.com/podcast/1248-the-mark-larson-show-60332929/episode/governors-have-a-lot-of-power-62897715/)
