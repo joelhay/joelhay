@@ -4,7 +4,9 @@ title: References
 description: Papers and References
 image: assets/images/old-books-1534109-1599x1104.jpg
 nav-menu: true
+image-details: assets/images/old-books-1534109-1599x1104.jpg
 ---
+<img class="resize-image" style="" src="/assets/images/old-books-1534109-1599x1104.jpg" alt="">
 
 * [Wall Street Journal (April 19): "Sending Hospitals Into Bankruptcy](https://www.wsj.com/articles/sending-hospitals-into-bankruptcy-11587326607?shareToken=stda6f18b5e6334b7697534223784a75fa&reflink=article_email_share)
 * [PulmCrit (April 11): Josh Farkas - "Eleven reasons the NEJM paper on remdesivir reveals nothing](https://emcrit.org/pulmcrit/pulmcrit-eleven-reasons-the-nejm-paper-on-remdesivir-reveals-nothing/)

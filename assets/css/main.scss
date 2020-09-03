@@ -154,10 +154,14 @@
 	background-color: #B22222;
 	color: #f7cb4d;
 	width: 80%;
-	margin-top: 10px;
 	font-size: 150%;
 	text-decoration: underline;
 	font-weight: bold;
+	height: 150%;
+}
+.no-margin{
+	margin: 0;
+	line-height: 2.5;
 }
 .key-points{
 	text-align: center;
@@ -165,6 +169,21 @@
 .upper-buttons{
 	text-align: center;
 }
+.inner > .main > .resize-image{
+	max-height: 500px;
+	width: auto;
+	margin-right: 40px;
+	margin-bottom: 40px;
+}
+
+.resize-image{
+	max-height: 500px;
+	width: auto;
+	margin-right: 40px; 
+	margin-bottom: 40px; 
+	float: left;
+}
+
 @media (max-width: 1071px) {
 	.red > div{
 		font-size: 3vw;
@@ -193,7 +212,13 @@
 		float: left;
 		width: 100%;
 	}
-	
+	.inner > .main > .resize-image{
+		float: none;
+	}
+	.inner > p > .resize-image{
+		float: none;
+	}
+
 	
 }
 @media (max-width: 415px) {
@@ -219,3 +244,4 @@
 	}
 	
 }
+

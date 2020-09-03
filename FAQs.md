@@ -4,7 +4,9 @@ title: FAQ
 description: Questions?
 image: assets/images/quilt.jpg
 nav-menu: true
+image-details: assets/images/quilt.jpg
 ---
+<img class="resize-image" style="width:100%" src="/assets/images/quilt.jpg" alt="">
 <details>
     <summary><h3 style="display:inline-block;">Our Goal</h3></summary>
     <br>
@@ -65,7 +67,6 @@ nav-menu: true
     Unfortunately, on 3/24, <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fdata%2Fnvss%2Fcoronavirus%2FAlert-2-New-ICD-code-introduced-for-COVID-19-deaths.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG_iKqPs-0dG4DAEkK57ay5-7GBaw" target="_blank"> the CDC changed its coding rules</a> , thus undermining the assumption of time-invariance. Nonetheless, modeling daily changes is still far more accurate than modeling reported levels, for the reasons described above.
     </p>
 </details>
-
 <details>
     <summary><h3 style="display:inline-block;">What causes miscoding/inflation of deaths?</h3></summary>
     <br>
@@ -85,7 +86,6 @@ nav-menu: true
         <li><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Ffactcheck%2F2020%2F04%2F24%2Ffact-check-medicare-hospitals-paid-more-covid-19-patients-coronavirus%2F3000638001%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHpF31uccY33IqbE8Y72SaX6XxQBQ" target="_blank">https://www.usatoday.com/story/news/factcheck/2020/04/24/fact-check-medicare-hospitals-paid-more-covid-19-patients-coronavirus/3000638001/</a></li>
     </ul>
 </details>
-
 <details>
     <summary><h3 style="display:inline-block;">Modeling (see above re: focusing on rates of change and time invariance) [TECHNICAL]</h3></summary>
     <br>
