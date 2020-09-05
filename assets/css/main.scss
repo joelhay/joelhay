@@ -91,7 +91,7 @@
        position: absolute; 
        top: 0; 
        left: 0; 
-       background-color: rgb(247, 203, 77);; 
+       background-color: rgb(247, 203, 77); 
        width: 100%; 
        text-align: center;
 }
@@ -264,7 +264,7 @@
 .countup span[class*="timeRef"] {
 	border-radius: 0 10px 10px 0;
 	margin-left: 0;
-	background: #e8c152;
+	background: rgb(247, 203, 77);
 	color: black;
 	
 }
@@ -272,7 +272,7 @@
 .countup .timertitle{
 	border-radius: 10px;
 	margin-left: 0;
-	background: #e8c152;
+	background: rgb(247, 203, 77);
 	color: black;
 	
 }
