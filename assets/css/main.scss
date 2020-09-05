@@ -259,14 +259,14 @@
 	min-width: 2.6rem;
 	margin-left: 13px;
 	border-radius: 10px 0 0 10px;
-	
+	font-weight: 600;
 }
 .countup span[class*="timeRef"] {
 	border-radius: 0 10px 10px 0;
 	margin-left: 0;
 	background: rgb(247, 203, 77);
 	color: black;
-	
+	font-weight: 600;
 }
 
 .countup .timertitle{
@@ -274,7 +274,7 @@
 	margin-left: 0;
 	background: rgb(247, 203, 77);
 	color: black;
-	
+	font-weight: 600;
 }
 @media (max-width: 776px) {
 	.countup .timeel{
