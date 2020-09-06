@@ -4,6 +4,7 @@ title: Media Clips
 description: Media Clips
 image: assets/images/radio-studio-1315232-1600x1200.jpg
 nav-menu: true
+comments: true
 ---
 
 #### *RADIO AND MEDIA APPEARANCES*
@@ -27,3 +28,22 @@ nav-menu: true
 * [Steve Hilton (April 12): How to open America safely, and soon (featuring Jay Bhattacharya)](https://www.foxnews.com/opinion/steve-hilton-how-to-reopen-america-safely-but-soon)
 * [Good Morning America (April 10): Antibody testing in fight to understand coronavirus (featuring Eran Bendavid and Neeraj Sood)](https://www.youtube.com/watch?v=S31X2crcQqM)
 * [Tucker Carlson (April 6): How long will the lockdowns last?](https://video.foxnews.com/v/6147552022001/?playlist_id=5198073478001)
+
+{% if page.comments %}
+<div class="inner disqus">
+    <div id="disqus_thread"></div>
+    <script>
+        var disqus_config = function () {
+        this.page.url = '{{ page.url | absolute_url }}';  
+        this.page.identifier = '{{ page.url }}'; 
+        };
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://joelhay-com.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>                         
+{% endif %} 

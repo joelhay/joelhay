@@ -5,6 +5,7 @@ description: Questions?
 image: assets/images/quilt.jpg
 nav-menu: true
 image-details: assets/images/quilt.jpg
+comments: true
 ---
 <img class="resize-image" style="width:100%" src="/assets/images/quilt.jpg" alt="">
 <details>
@@ -202,3 +203,22 @@ image-details: assets/images/quilt.jpg
         <li><a href="https://www.google.com/url?q=https%3A%2F%2Fhistory.nih.gov%2Fnihinownwords%2Fdocs%2Fpage_10.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHhiIEii4EeNdBBCwLJhvB7rrXFyw" target="_blank">https://history.nih.gov/nihinownwords/docs/page_10.html</a></li>
     </ul>
 </details>
+
+{% if page.comments %}
+<div class="inner disqus">
+    <div id="disqus_thread"></div>
+    <script>
+        var disqus_config = function () {
+        this.page.url = '{{ page.url | absolute_url }}';  
+        this.page.identifier = '{{ page.url }}'; 
+        };
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://joelhay-com.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>                         
+{% endif %} 

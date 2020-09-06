@@ -5,6 +5,7 @@ description: Papers and References
 image: assets/images/old-books-1534109-1599x1104.jpg
 nav-menu: true
 image-details: assets/images/old-books-1534109-1599x1104.jpg
+comments: true
 ---
 <img class="resize-image" style="" src="/assets/images/old-books-1534109-1599x1104.jpg" alt="">
 
@@ -15,3 +16,22 @@ image-details: assets/images/old-books-1534109-1599x1104.jpg
 * [medRxiv: Christopher JL Murray (IHME) - "Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1)
 * [Wall Street Journal (March 24): Eran Bendavid & Jay Bhattacharya - “Is the Coronavirus as Deadly as They Say?”](https://www.wsj.com/articles/is-the-coronavirus-as-deadly-as-they-say-11585088464)
 * [STAT News (March 17): John P.A. Ioannidis - “A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data.”](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)
+
+{% if page.comments %}
+<div class="inner disqus">
+    <div id="disqus_thread"></div>
+    <script>
+        var disqus_config = function () {
+        this.page.url = '{{ page.url | absolute_url }}';  
+        this.page.identifier = '{{ page.url }}'; 
+        };
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://joelhay-com.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>                         
+{% endif %} 

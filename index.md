@@ -6,4 +6,5 @@ description:
 image: null
 author: null
 show_tile: false
+comments: true
 ---

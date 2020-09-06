@@ -4,13 +4,33 @@ title: Key Points
 description: Key Points + COVID-19 Daily Graphs
 image: assets/images/Picture1.jpg
 nav-menu: true
+comments: true
 ---
 <!-- Main -->
 <div id="main">
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
+	<div class="inner kpts-timer">
+		<div class="countup" id="countup1">
+			<span class="timeel timertitle">Since Lockdown</span>
+			<div style="display: inline-block;">
+				<span class="timeel days">00</span>
+				<span class="timeel timeRefDays">days</span>
+			</div> 
+			<div style="display: inline-block;">
+				<span class="timeel hours">00</span>
+				<span class="timeel timeRefHours">hours</span>
+			</div>
+			<div style="display: inline-block;">
+				<span class="timeel minutes">00</span>
+				<span class="timeel timeRefMinutes">minutes</span>
+			</div>
+			<div style="display: inline-block;">
+				<span class="timeel seconds">00</span>
+				<span class="timeel timeRefSeconds">seconds</span>
+			</div>
+        </div>
 		<header class="major">
 			<h2>We could end this lockdown in 72 hours if officials ordered testing of stored blood samples in hospitals, blood donor centers, clinics and labs.</h2>
 		</header>
@@ -94,7 +114,26 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+	{% if page.comments %}
+		<div class="inner disqus">
+			<div id="disqus_thread"></div>
+			<script>
+				var disqus_config = function () {
+				this.page.url = '{{ page.url | absolute_url }}';  
+				this.page.identifier = '{{ page.url }}'; 
+				};
+				(function() { // DON'T EDIT BELOW THIS LINE
+				var d = document, s = d.createElement('script');
+				s.src = 'https://joelhay-com.disqus.com/embed.js';
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+				})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		</div>                         
+	{% endif %} 
 
 </div>
+
 
 
