@@ -3,6 +3,7 @@ on:
   push:
     branches: 
       - 'joel-test'
+      - 'master'
 jobs:
   jekyll:
     name: Build and deploy Jekyll site
