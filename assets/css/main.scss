@@ -105,9 +105,28 @@
     text-align: center;  
     margin: auto;
 }
+
+#banner-button{
+	margin: auto 0;
+	font-size: 0.8em;
+	margin-left: 35px;
+	letter-spacing: .1em;
+}
+
+@media (max-width: 600px) {
+	#banner-button{
+		margin: auto;
+		display: block;
+	}
+	#banner-content { 
+		
+		height: 110px;
+		
+	}
+}
 @media (max-width: 450px) {
 	#banner-content { 
-		height: 110px;
+		height: 150px;
 	}
 	#banner-content > a{
 		display: block;
@@ -120,6 +139,14 @@
 	}
 	
 }
+
+@media (max-width: 450px){
+	#banner.major {
+		padding: 8em 0 0;
+	}
+}
+
+
 #banner-font{
 	
 	color: rgb(0,0,0);
@@ -135,12 +162,7 @@
     margin: auto;
     display: inline-block;
 }
-#banner-button{
-	margin: auto 0;
-	font-size: 0.8em;
-	margin-left: 35px;
-	letter-spacing: .1em;
-}
+
 #twitter-center{
 	margin: auto;
 }
