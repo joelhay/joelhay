@@ -257,16 +257,9 @@
 		position: relative;
 		margin-top: 70px; //margin for banner
 	}
-	@media (max-width: 600px) {
-		.wrapper-header{
-			margin-top:110px; //margin for banner
-		}
-		
-	}
-
 	@media (max-width: 450px) {
 		.wrapper-header{
-			margin-top:150px; //margin for banner
+			margin-top:110px; //margin for banner
 		}
 		
 	}
