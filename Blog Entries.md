@@ -10,7 +10,7 @@ nav-menu: true
 	<section id="one">
 	<div class="inner">
 		<header class="major" id="twitter-center">
-			<a class="twitter-timeline tw-align-center" data-chrome="transparent" data-width="1100" data-theme="dark" href="https://twitter.com/JoelWHay1?ref_src=twsrc%5Etfw">Tweets by JoelWHay1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			<a class="twitter-timeline tw-align-center" data-chrome="transparent" data-width="1100" data-theme="dark" href="https://twitter.com/JoelHayOfficial?ref_src=twsrc%5Etfw">Tweets by JoelHayOfficial</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</header>
 		<p>
 		</p>
