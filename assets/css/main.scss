@@ -316,3 +316,16 @@
 #search{
 	margin-right: 0px;
 }
+
+@media (max-width: 412px) {
+	#button-long{
+		letter-spacing: 1px;
+	}
+	
+}
+@media (max-width: 775px) {
+	#button-long{
+		height: 90px;
+	}
+	
+}
