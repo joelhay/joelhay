@@ -44,9 +44,9 @@ comments: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/operation-theatre-in-hospital-1524337.jpg %}" alt="" data-position="center center" />
-		</a>
+		
+		<img class="image" src="{% link assets/images/operation-theatre-in-hospital-1524337.jpg %}" alt="" data-position="center center" />
+	
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -62,9 +62,9 @@ comments: true
     
 
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/radio-studio-1315232-1600x1200.jpg %}" alt="" data-position="top center" />
-		</a>
+		
+		<img class="image" src="{% link assets/images/radio-studio-1315232-1600x1200.jpg %}" alt="" data-position="top center" />
+		
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -79,9 +79,9 @@ comments: true
 	</section>
 
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/tonik-hAZ3TNzQP6w-unsplash.jpg %}" alt="" data-position="25% 25%" style="height: 500px;"/>
-		</a>
+
+		<img class="image" src="{% link assets/images/tonik-hAZ3TNzQP6w-unsplash.jpg %}" alt="" data-position="25% 25%" style="height: 500px;"/>
+
 		<div class="content">
 			<div class="inner">
 				<header class="major">

@@ -4,6 +4,7 @@ title: WHY CONTACT TRACING DOESN’T WORK
 nav-menu: false
 show_tile: false
 ---
+[An RT-PCR positive result in a currently asymptomatic person is of unclear significance and RT-PCR positive status cannot be used to infer potentially infectious status!](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-covid-19-sag-asymptomatic-transmission-rapid-review.pdf)
 
 [The median R0 = 5.7](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article) indicating that COVID-19 is highly infectious; each infected person spreads it to 5-6 others.
 
