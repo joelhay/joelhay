@@ -6,10 +6,10 @@ description: Welcome to joelhay.com. I am a PhD Health Economist whose mission i
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://joelhay.com # the base hostname & protocol for your site
 author: 
-street_address: 813 Jeffrey Court
-city: Incline Village
+street_address: PO Box 4687
+city: IV
 state: NV
-zip_code: 89451
+zip_code: 89450
 country: United States of America
 phone: 
 
@@ -27,7 +27,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/joelhay/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/joelwhay1
+twitter_url: https://twitter.com/JoelHayOfficial
 
 # build settings
 markdown: kramdown
