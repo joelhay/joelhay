@@ -3,16 +3,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
-
-// Code to speed up website load
-function loadDeferredIframe() {
-	// this function will load the Google homepage into the iframe
-	var iframe = document.getElementById("graph");
-	iframe.src = "https://ourworldindata.org/grapher/total-covid-deaths-per-million?tab=chart&yScale=log&year=latest&time=2020-01-31..2020-09-07&country=SWE~USA&region=Europe"; // here goes your url
-};
-document.getElementById("banner").onload = loadDeferredIframe();
-
 /*
  * Basic Count Up from Date and Time
  * Author: @mrwigster / https://guwii.com/bytes/count-date-time-javascript/
