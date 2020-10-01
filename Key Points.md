@@ -110,7 +110,7 @@ comments: true
 		</header>
 		<p>Brought to You By The COVID-19 Econometric Modeling Team</p>
 		<ul class="actions">
-			<li><a href="https://joelhay.github.io/" class="button">Link to Graph</a></li>
+			<li><a href="https://joelhay.github.io/" class="button" target="_blank">Link to Graph</a></li>
 		</ul>
 	</div>
 </section>

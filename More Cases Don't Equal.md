@@ -16,7 +16,7 @@ show_tile: false
 			<h2>We could end this lockdown in 72 hours if officials ordered testing of stored blood samples in hospitals, blood donor centers, clinics and labs.</h2>
 		</header>
 		<div class="key-points">
-                <a href="https://episphere.github.io/mortalitytracker/#cause=allcause&state=All%20States" class="button special red">Click Here For the CDC Mortality Tracker</a>
+                <a href="https://episphere.github.io/mortalitytracker/#cause=allcause&state=All%20States" class="button special red" target="_blank">Click Here For the CDC Mortality Tracker</a>
 				
         </div>
 	</div>
