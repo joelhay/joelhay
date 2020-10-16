@@ -9,6 +9,7 @@ comments: true
 ---
 <img class="resize-image" style="" src="/assets/images/old-books-1534109-1599x1104.jpg" alt="">
 
+* [HEALTH SURVEY RESULTS: IMPACT OF COVID-19](https://www.researchsquare.com/article/rs-71000/v1) 
 * [When Did COVID-19 Arrive and Could We Have Spotted It Earlier? — A forensic pathologist investigates](https://www.medpagetoday.com/blogs/working-stiff/86291)
 * [Wall Street Journal (April 19): "Sending Hospitals Into Bankruptcy](https://www.wsj.com/articles/sending-hospitals-into-bankruptcy-11587326607?shareToken=stda6f18b5e6334b7697534223784a75fa&reflink=article_email_share)
 * [PulmCrit (April 11): Josh Farkas - "Eleven reasons the NEJM paper on remdesivir reveals nothing](https://emcrit.org/pulmcrit/pulmcrit-eleven-reasons-the-nejm-paper-on-remdesivir-reveals-nothing/)
