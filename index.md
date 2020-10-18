@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, My Name is Joel Hay"
+landing-title: Welcome to JoelHay.com
 description: 
 image: null
 author: null
