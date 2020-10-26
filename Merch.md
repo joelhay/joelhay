@@ -1,8 +1,8 @@
 ---
-title: COVID Merch!
+title: Anti-COVID Gear
 layout: landing
-description: 
-image: assets/images/mareko-tamaleaa-u29A-hrVgJU-unsplash.jpg
+description: Support Our Research!
+image: assets/images/pexels-miguel-á-padriñán-3936421.jpg
 nav-menu: true
 show_tile: true
 ---
