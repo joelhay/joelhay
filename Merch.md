@@ -1,8 +1,8 @@
 ---
-title: Anti-COVID Gear
+title: joelhay.com merch
 layout: landing
 description: Support Our Research!
-image: assets/images/pexels-miguel-á-padriñán-3936421.jpg
+image: assets/images/socialdistance.png
 nav-menu: true
 show_tile: true
 ---
