@@ -2,7 +2,7 @@
 title: joelhay.com merch
 layout: landing
 description: Support Our Research!
-image: assets/images/socialdistance.png
+image: assets/images/covidvaccine.png
 nav-menu: true
 show_tile: true
 ---
