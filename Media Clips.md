@@ -8,6 +8,7 @@ comments: true
 ---
 
 #### *RADIO AND MEDIA APPEARANCES*
+* [See Joel Hay Debunk 5 Myths (From the Truth Over Fear Summit)](Coffin Show Myths.html)
 * [Joel Hay on the Patrick Coffin Podcast 9/01/2020](https://www.patrickcoffin.media/lockdown-and-covid19-masks-useless/)
 * [Joel Hay on KUSI 08/05/2020](https://www.youtube.com/watch?v=VpZ3JxbKAVE&feature=youtu.be)
 * [What Are You Afraid Of? - The Mark Larson Show](https://www.iheart.com/podcast/1248-the-mark-larson-show-60332929/episode/what-are-you-afraid-of-68728947/)
@@ -22,8 +23,6 @@ comments: true
 * [Carlson Cast (April 9): What went wrong in NY?](http://kvi.com/podcast/commute-with-carlson/carlsoncast-april9-7am-hour-2020)
 * [Carlson Cast (April 8): What can the US learn from Sweden’s response?](http://kvi.com/podcast/commute-with-carlson/carlsoncast-april8-7am-hour-2020)
 * [John Batchelor Show (April 6): Sweden stays open and manages better than shutdown nations](https://audioboom.com/posts/7549785-sweden-stays-open-and-manages-better-than-shutdown-nations-in-the-time-of-the-virus-joel-hay-us)
-
-#### *RADIO AND MEDIA APPEARANCES*
 * [Tucker Carlson (April 14): What is the actual death rate of COVID-19 (featuring Jay Bhattacharya)?](https://video.foxnews.com/v/6149446823001?playlist_id=5198073478001#sp=show-clips)
 * [Steve Hilton (April 12): How to open America safely, and soon (featuring Jay Bhattacharya)](https://www.foxnews.com/opinion/steve-hilton-how-to-reopen-america-safely-but-soon)
 * [Good Morning America (April 10): Antibody testing in fight to understand coronavirus (featuring Eran Bendavid and Neeraj Sood)](https://www.youtube.com/watch?v=S31X2crcQqM)
