@@ -11,8 +11,7 @@ comments: true
 
 <div class="inner">
   <h3>Sweden, unlike the US, decided  to explain to people the risks and best practices, 
-    but did not close schools, stores, or other activities.  As a result, they have attained 
-    herd immunity and show a similar death rate to the US.</h3>
+    but did not close schools, stores, or other activities.  As a result, they have attained herd immunity and have a lower death rate than the US.</h3>
     <iframe id="graph" src="https://ourworldindata.org/grapher/total-covid-deaths-per-million?tab=chart&yScale=linear&year=latest&time=2020-01-31..latest&country=SWE~USA&region=Europe" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
   <br><br>
 </div>
