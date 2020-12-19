@@ -165,6 +165,12 @@
 	text-decoration: underline;
 	font-weight: bold;
 }
+.upper-buttons > .button1{
+	width: 80%;
+	margin-top: 10px;
+	font-size: 150%;
+	font-weight: bold;
+}
 .key-points > .red{
 	background-color: #B22222;
 	color: #f7cb4d;
@@ -206,7 +212,12 @@
 		letter-spacing: 1px;
 		
 	}
-	.upper-buttons > .red{
+	.button1 > div{
+		font-size: 2vw;
+		letter-spacing: 3px;
+		
+	}
+	.upper-buttons > .red, .upper-buttons > .button1{
 		padding: 0;
 	}
 	.key-points > .red{
@@ -223,11 +234,17 @@
 		letter-spacing: 1px;
 		
 	}
-	.upper-buttons > .red{
+	.button1 > div{
+		font-size: 3.5vw;
+		letter-spacing: 1px;
+		
+	}
+	.upper-buttons > .red, .upper-buttons > .button1{
 		padding: 0;
 		float: left;
 		width: 100%;
 	}
+
 	.inner > .main > .resize-image{
 		float: none;
 	}
@@ -243,7 +260,13 @@
 		letter-spacing: 1px;
 		
 	}
-	.upper-buttons > .red{
+	.button1 > div{
+		font-size: 3vw;
+		letter-spacing: 1px;
+		
+	}
+
+	.upper-buttons > .red, .upper-buttons > .button1{
 		padding: 0;
 		float: left;
 		width: 100%;
