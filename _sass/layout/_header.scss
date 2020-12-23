@@ -228,9 +228,9 @@
 					&[href="#menu"], &[href="#menu1"] {
 						overflow: hidden;
 						padding-right: 0 !important;
-						text-indent: 5em;
+						//text-indent: 5em;
 						white-space: nowrap;
-						width: 5em;
+						//width: 5em;
 
 						&:before, &:after {
 							right: 0;
@@ -245,6 +245,7 @@
 						}
 					}
 					&[href="#menu"]{
+						
 						display: none;
 					}
 				}
