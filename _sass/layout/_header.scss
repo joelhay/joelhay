@@ -84,7 +84,7 @@
 					padding-right: 1.5em;
 				}
 
-				&[href="#menu"] {
+				&[href="#menu"], &[href="#menu1"]  {
 					padding-right: 3.325em !important;
 
 					&:before, &:after {
@@ -156,7 +156,7 @@
 		@include breakpoint(xlarge) {
 			nav {
 				a {
-					&[href="#menu"] {
+					&[href="#menu"], &[href="#menu1"] {
 						padding-right: 3.75em !important;
 
 						&:last-child {
@@ -170,7 +170,7 @@
 		@include breakpoint(large) {
 			nav {
 				a {
-					&[href="#menu"] {
+					&[href="#menu"], &[href="#menu1"] {
 						padding-right: 4em !important;
 
 						&:last-child {
@@ -197,7 +197,7 @@
 						padding-right: 1em;
 					}
 
-					&[href="#menu"] {
+					&[href="#menu"], &[href="#menu1"] {
 						padding-right: 3.25em !important;
 
 						&:before, &:after {
@@ -225,7 +225,7 @@
 
 			nav {
 				a {
-					&[href="#menu"] {
+					&[href="#menu"], &[href="#menu1"] {
 						overflow: hidden;
 						padding-right: 0 !important;
 						text-indent: 5em;
@@ -244,6 +244,9 @@
 							}
 						}
 					}
+					&[href="#menu"]{
+						display: none;
+					}
 				}
 			}
 		}
@@ -259,7 +262,14 @@
 	}
 	@media (max-width: 994px) {
 		.wrapper-header{
-			margin-top:130px; //margin for banner
+			margin-top:80px; //margin for banner
+		}
+		
+	}
+
+	@media (max-width: 990px) {
+		.wrapper-header{
+			margin-top:70px; //margin for banner
 		}
 		
 	}

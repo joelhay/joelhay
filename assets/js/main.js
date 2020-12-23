@@ -327,11 +327,19 @@ function refresh(){
 		// Menu.
 			var $menu = $('#menu'),
 				$menuInner;
+			
+			var $menu1 = $('#menu1'),
+				$menu1Inner;
 
 			$menu.wrapInner('<div class="inner"></div>');
 			$menuInner = $menu.children('.inner');
 			$menu._locked = false;
 
+			
+			$menu1.wrapInner('<div class="inner"></div>');
+			$menu1Inner = $menu1.children('.inner');
+			$menu1._locked = false;
+			
 			$menu._lock = function() {
 
 				if ($menu._locked)
@@ -347,10 +355,32 @@ function refresh(){
 
 			};
 
+			$menu1._lock = function() {
+
+				if ($menu1._locked)
+					return false;
+
+				$menu1._locked = true;
+
+				window.setTimeout(function() {
+					$menu1._locked = false;
+				}, 350);
+
+				return true;
+
+			};
+
 			$menu._show = function() {
 
 				if ($menu._lock())
 					$body.addClass('is-menu-visible');
+
+			};
+
+			$menu1._show = function() {
+
+				if ($menu1._lock())
+					$body.addClass('is-menu1-visible');
 
 			};
 
@@ -361,10 +391,24 @@ function refresh(){
 
 			};
 
+			$menu1._hide = function() {
+
+				if ($menu1._lock())
+					$body.removeClass('is-menu1-visible');
+
+			};
+
 			$menu._toggle = function() {
 
 				if ($menu._lock())
 					$body.toggleClass('is-menu-visible');
+
+			};
+
+			$menu1._toggle = function() {
+
+				if ($menu1._lock())
+					$body.toggleClass('is-menu1-visible');
 
 			};
 
@@ -389,6 +433,27 @@ function refresh(){
 
 				});
 
+			$menu1Inner
+				.on('click', function(event) {
+					event.stopPropagation();
+				})
+				.on('click', 'a', function(event) {
+
+					var href = $(this).attr('href');
+
+					event.preventDefault();
+					event.stopPropagation();
+
+					// Hide.
+						$menu1._hide();
+
+					// Redirect.
+						window.setTimeout(function() {
+							window.location.href = href;
+						}, 250);
+
+				});
+
 			$menu
 				.appendTo($body)
 				.on('click', function(event) {
@@ -400,6 +465,18 @@ function refresh(){
 
 				})
 				.append('<a class="close" href="#menu">Close</a>');
+
+			$menu1
+				.appendTo($body)
+				.on('click', function(event) {
+
+					event.stopPropagation();
+					event.preventDefault();
+
+					$body.removeClass('is-menu1-visible');
+
+				})
+				.append('<a class="close" href="#menu1">Close</a>');
 
 			$body
 				.on('click', 'a[href="#menu"]', function(event) {
@@ -424,7 +501,30 @@ function refresh(){
 							$menu._hide();
 
 				});
+			$body
+				.on('click', 'a[href="#menu1"]', function(event) {
 
+					event.stopPropagation();
+					event.preventDefault();
+
+					// Toggle.
+						$menu1._toggle();
+
+				})
+				.on('click', function(event) {
+
+					// Hide.
+						$menu1._hide();
+
+				})
+				.on('keydown', function(event) {
+
+					// Hide on escape.
+						if (event.keyCode == 27)
+							$menu1._hide();
+
+				});
+				
 	});
 
 })(jQuery);
