@@ -9,6 +9,7 @@ comments: true
 ---
 <img class="resize-image" style="" src="/assets/images/old-books-1534109-1599x1104.jpg" alt="">
 
+* [Open Schools, Covid-19, and Child and Teacher Morbidity in Sweden](https://www.nejm.org/doi/full/10.1056/NEJMc2026670) 
 * [HEALTH SURVEY RESULTS: IMPACT OF COVID-19](https://www.researchsquare.com/article/rs-71000/v1) 
 * [When Did COVID-19 Arrive and Could We Have Spotted It Earlier? — A forensic pathologist investigates](https://www.medpagetoday.com/blogs/working-stiff/86291)
 * [Wall Street Journal (April 19): "Sending Hospitals Into Bankruptcy](https://www.wsj.com/articles/sending-hospitals-into-bankruptcy-11587326607?shareToken=stda6f18b5e6334b7697534223784a75fa&reflink=article_email_share)
