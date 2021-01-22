@@ -7,10 +7,24 @@ nav-menu: true
 image-details: assets/images/Swedish Flag.jpg
 comments: true
 ---
-<img class="" style="" src="/assets/images/Swedish Flag.jpg" alt="">
+
+<script>
+function load_Sweden() {
+  const proxyurl = "https://cors-anywhere.herokuapp.com/";
+  const url = "https://mfjx6tjima.execute-api.us-west-1.amazonaws.com/RetrieveSwedenDeaths"; // site that doesn’t send Access-Control-*
+  fetch(proxyurl + url) 
+  .then(response => response.text())
+  .then(contents => document.getElementById("graphcaption").innerHTML +=  
+  " Had the US been able to maintain Sweden's reported C19 Death Rate of " + "<u>" + contents.substring(1, contents.length - 1) + " Per Million People</u>, fewer Americans would be dead. Sweden never wore masks or locked down.")
+  .catch(() => console.log("Can’t access " + url + " response. Blocked by browser?"))
+}
+</script>
+<img onload="load_Sweden()" style="" src="/assets/images/Swedish Flag.jpg" alt="">
+
+
 
 <div class="inner">
-  <h3>Sweden, unlike the US, decided  to explain to people the risks and best practices, 
+  <h3 id="graphcaption">Sweden, unlike the US, decided to explain to people the risks and best practices, 
     but did not close schools, stores, or other activities.  As a result, they have attained herd immunity and have a lower death rate than the US.</h3>
     <iframe id="graph" src="https://ourworldindata.org/grapher/total-covid-deaths-per-million?tab=chart&yScale=linear&year=latest&time=2020-01-31..latest&country=SWE~USA&region=Europe" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
   <br><br>

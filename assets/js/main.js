@@ -4,8 +4,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-
-
 /*
  * Basic Count Up from Date and Time
  * Author: @mrwigster / https://guwii.com/bytes/count-date-time-javascript/
