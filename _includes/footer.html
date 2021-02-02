@@ -38,8 +38,12 @@
 				<span class="icon alt fa-home"></span>
 				<h3>Address</h3>
 				<span>
+					Joel W. Hay, PhD<br />
 					{% if site.street_address %}
 					{{ site.street_address }}<br />
+					{% endif %}
+					{% if site.suite_number %}
+					#{{ site.suite_number }}<br />
 					{% endif %}
 					{% if site.city %}
 					{{ site.city }},

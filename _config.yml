@@ -6,10 +6,11 @@ description: I am a PhD Health Economist whose mission is to generate and share 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://joelhay.com # the base hostname & protocol for your site
 author: 
-street_address: PO Box 4687
-city: IV
+street_address: 1362 US HWY 395, Ste 102
+suite_number: 425
+city: Gardnerville
 state: NV
-zip_code: 89450
+zip_code: 89410
 country: United States of America
 phone: 
 
