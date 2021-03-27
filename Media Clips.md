@@ -8,6 +8,7 @@ comments: true
 ---
 
 #### *RADIO AND MEDIA APPEARANCES*
+* [San Diego's School Open Door Policy, Health Challenges and News Trenders - The Mark Larson Show](https://www.iheart.com/podcast/1248-the-mark-larson-show-60332929/episode/san-diegos-school-open-door-policy-80005050/)
 * [How the Latest COVID Restrictions Could Affect Our Economy - The Mark Larson Show](https://www.iheart.com/podcast/1248-the-mark-larson-show-60332929/episode/how-the-latest-covid-restrictions-could-73687056/)
 * [See Joel Hay Debunk 5 Myths (From the Truth Over Fear Summit)](Coffin Show Myths.html)
 * [Joel Hay on the Patrick Coffin Podcast 9/01/2020](https://www.patrickcoffin.media/lockdown-and-covid19-masks-useless/)

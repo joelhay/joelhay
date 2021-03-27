@@ -8,17 +8,12 @@ image-details: assets/images/Swedish Flag.jpg
 comments: true
 ---
 
-<script>
-function load_Sweden() {
-  const proxyurl = "https://cors-anywhere.herokuapp.com/";
-  const url = "https://mfjx6tjima.execute-api.us-west-1.amazonaws.com/RetrieveSwedenDeaths"; // site that doesn’t send Access-Control-*
-  fetch(proxyurl + url) 
-  .then(response => response.text())
-  .then(contents => document.getElementById("graphcaption").innerHTML +=  
-  " Had the US been able to maintain Sweden's reported C19 Death Rate of " + "<u>" + contents.substring(1, contents.length - 1) + " Per Million People</u>, fewer Americans would be dead. Sweden never wore masks or locked down.")
-  .catch(() => console.log("Can’t access " + url + " response. Blocked by browser?"))
-}
-</script>
+<script> function load_Sweden() { 
+  const url = "https://mfjx6tjima.execute-api.us-west-1.amazonaws.com/RetrieveSwedenDeaths"; 
+
+  fetch(url) 
+  .then(response => response.text()) 
+  .then(contents => document.getElementById("graphcaption").innerHTML += " Had the US been able to maintain Sweden's reported C19 Death Rate of " + "" + contents.substring(1, contents.length - 1) + " Per Million People, fewer Americans would be dead. Sweden never wore masks or locked down.") .catch(() => console.log("Can’t access " + url + " response. Blocked by browser?")) } </script>
 <img onload="load_Sweden()" style="" src="/assets/images/Swedish Flag.jpg" alt="">
 
 
