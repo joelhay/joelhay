@@ -19,7 +19,7 @@ comments: true
 
 
 <div class="inner">
- <a href="https://denver.cbslocal.com/2020/12/15/grand-county-covid-deaths/" style="font-size: 130%; margin-bottom: 20px;"><h3 id="hometitle" style="text-decoration: underline;">Sweden: Despite Variants, No Lockdowns, No Daily Covid Deaths</h3></a>
+ <a href="https://www.aier.org/article/sweden-despite-variants-no-lockdowns-no-daily-covid-deaths/" style="font-size: 130%; margin-bottom: 20px;"><h3 id="hometitle" style="text-decoration: underline;">Sweden: Despite Variants, No Lockdowns, No Daily Covid Deaths</h3></a>
 
   <h3 id="graphcaption">Sweden, unlike the US, decided to explain to people the risks and best practices, 
     but did not close schools, stores, or other activities.  As a result, they have attained herd immunity and have a lower death rate than the US.</h3>
