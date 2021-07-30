@@ -19,7 +19,7 @@ comments: true
 
 
 <div class="inner">
- <a href="https://denver.cbslocal.com/2020/12/15/grand-county-covid-deaths/" style="font-size: 130%; margin-bottom: 20px;" target="_blank"><h3 id="hometitle" style="text-decoration: underline;">Sweden: Despite Variants, No Lockdowns, No Daily Covid Deaths</h3></a>
+ <a href="https://denver.cbslocal.com/2020/12/15/grand-county-covid-deaths/" style="font-size: 130%; margin-bottom: 20px;"><h3 id="hometitle" style="text-decoration: underline;">Sweden: Despite Variants, No Lockdowns, No Daily Covid Deaths</h3></a>
 
   <h3 id="graphcaption">Sweden, unlike the US, decided to explain to people the risks and best practices, 
     but did not close schools, stores, or other activities.  As a result, they have attained herd immunity and have a lower death rate than the US.</h3>
@@ -29,7 +29,7 @@ comments: true
 
 All Swedish ICU figures are taken from the Swedish Intensive Care Registry but have been compiled by SVT. Only the number in the top card shows the current situation - the others do not show how many are in intensive care right now - but how many have so far been enrolled in intensive care due to Covid-19.
 
-<a href="https://www.svt.se/datajournalistik/corona-i-intensivvarden/" class="button next scrolly" target="_blank">Let's See It!</a>
+<a href="https://www.svt.se/datajournalistik/corona-i-intensivvarden/" class="button next scrolly">Let's See It!</a>
 
 {% if page.comments %}
 <div class="inner disqus">
