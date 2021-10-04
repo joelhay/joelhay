@@ -107,7 +107,7 @@
 }
 #banner-content { 
 	display: inline-block;
-    height: 70px;
+    height: 120px;
     padding: 10px; 
     text-align: center;  
     margin: auto;
@@ -135,7 +135,7 @@
 
 @media (max-width: 1060px) {
 	#banner-content { 
-		height: 130px;
+		height: 220px;
 		line-height: 0;
 	}
 	#banner-font{
@@ -159,7 +159,7 @@
 }
 @media (max-width: 900px) {
 	#banner-content { 
-		height: 130px;
+		height: 250px;
 		line-height: 0;
 	}
 	#banner-font{
@@ -168,7 +168,7 @@
 		margin-bottom: 20px;
 	}
 	.wrapper-header{
-		margin-top: 130px; //margin for banner
+		margin-top: 250px; //margin for banner
 	}
 	#banner-content > a{
 		display: block;
@@ -184,7 +184,7 @@
 }
 @media (max-width: 553px) {
 	#banner-content { 
-		height: 130px;
+		height: 260px;
 		line-height: 1.5em;
 	}
 	#banner-font{
@@ -192,7 +192,7 @@
 		margin-top: 0;
 	}
 	.wrapper-header{
-		margin-top: 130px; //margin for banner
+		margin-top: 260px; //margin for banner
 	}
 	#banner-content > a{
 		display: block;
