@@ -27,7 +27,12 @@ comments: true
   <br><br>
 </div>
 
+<h3 style="text-decoration: underline;">Compare the Norwegian C19 ICU cases with Sweden Data</h3>
+<img class="resize-image" src="/assets/images/number-of-new-patients-w.jpeg" alt="">
+
 All Swedish ICU figures are taken from the Swedish Intensive Care Registry but have been compiled by SVT. Only the number in the top card shows the current situation - the others do not show how many are in intensive care right now - but how many have so far been enrolled in intensive care due to Covid-19.
+
+
 
 <a href="https://www.svt.se/datajournalistik/corona-i-intensivvarden/" class="button next scrolly">Let's See It!</a>
 
